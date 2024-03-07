@@ -1,0 +1,1 @@
+# monex-icon
