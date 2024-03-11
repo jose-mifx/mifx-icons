@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?8xfiuw');
-  src:  url('fonts/monex-icon.eot?8xfiuw#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?8xfiuw') format('truetype'),
-    url('fonts/monex-icon.woff?8xfiuw') format('woff'),
-    url('fonts/monex-icon.svg?8xfiuw#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?3najoe');
+  src:  url('fonts/monex-icon.eot?3najoe#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?3najoe') format('truetype'),
+    url('fonts/monex-icon.woff?3najoe') format('woff'),
+    url('fonts/monex-icon.svg?3najoe#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,774 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-switch-vertical-circle-02-outline:before {
+  content: "\eaf1";
+  color: #fff;
+}
+.monex-icon-switch-vertical-circle-01-outline:before {
+  content: "\eaf2";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-circle-02-outline:before {
+  content: "\eaf3";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-circle-01-outline:before {
+  content: "\eaf4";
+  color: #fff;
+}
+.monex-icon-switch-vertical-circle-02:before {
+  content: "\ea91";
+  color: #fff;
+}
+.monex-icon-switch-vertical-circle-01:before {
+  content: "\ea92";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-circle-02:before {
+  content: "\ea93";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-circle-01:before {
+  content: "\ea94";
+  color: #fff;
+}
+.monex-icon-switch-vertical-02:before {
+  content: "\ea95";
+  color: #fff;
+}
+.monex-icon-switch-vertical-01:before {
+  content: "\ea96";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-02:before {
+  content: "\ea97";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-01:before {
+  content: "\ea98";
+  color: #fff;
+}
+.monex-icon-reverse-right:before {
+  content: "\ea99";
+  color: #fff;
+}
+.monex-icon-reverse-left:before {
+  content: "\ea9a";
+  color: #fff;
+}
+.monex-icon-refresh-cw-05:before {
+  content: "\ea9b";
+  color: #fff;
+}
+.monex-icon-refresh-cw-04:before {
+  content: "\ea9c";
+  color: #fff;
+}
+.monex-icon-refresh-cw-03:before {
+  content: "\ea9d";
+  color: #fff;
+}
+.monex-icon-refresh-cw-02:before {
+  content: "\ea9e";
+  color: #fff;
+}
+.monex-icon-refresh-cw-01:before {
+  content: "\ea9f";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-05:before {
+  content: "\eaa0";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-04:before {
+  content: "\eaa1";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-03:before {
+  content: "\eaa2";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-02:before {
+  content: "\eaa3";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-01:before {
+  content: "\eaa4";
+  color: #fff;
+}
+.monex-icon-infinity:before {
+  content: "\eaa5";
+  color: #fff;
+}
+.monex-icon-flip-forward:before {
+  content: "\eaa6";
+  color: #fff;
+}
+.monex-icon-flip-backward:before {
+  content: "\eaa7";
+  color: #fff;
+}
+.monex-icon-expand-06:before {
+  content: "\eaa8";
+  color: #fff;
+}
+.monex-icon-expand-05:before {
+  content: "\eaa9";
+  color: #fff;
+}
+.monex-icon-expand-04:before {
+  content: "\eaaa";
+  color: #fff;
+}
+.monex-icon-expand-03:before {
+  content: "\eaab";
+  color: #fff;
+}
+.monex-icon-expand-02:before {
+  content: "\eaac";
+  color: #fff;
+}
+.monex-icon-expand-01:before {
+  content: "\eaad";
+  color: #fff;
+}
+.monex-icon-corner-up-right:before {
+  content: "\eaae";
+  color: #fff;
+}
+.monex-icon-corner-up-left:before {
+  content: "\eaaf";
+  color: #fff;
+}
+.monex-icon-corner-right-up:before {
+  content: "\eab0";
+  color: #fff;
+}
+.monex-icon-corner-right-down:before {
+  content: "\eab1";
+  color: #fff;
+}
+.monex-icon-corner-left-up:before {
+  content: "\eab2";
+  color: #fff;
+}
+.monex-icon-corner-left-down:before {
+  content: "\eab3";
+  color: #fff;
+}
+.monex-icon-corner-down-right:before {
+  content: "\eab4";
+  color: #fff;
+}
+.monex-icon-corner-down-left:before {
+  content: "\eab5";
+  color: #fff;
+}
+.monex-icon-chevron-up-double:before {
+  content: "\eab6";
+  color: #fff;
+}
+.monex-icon-chevron-up:before {
+  content: "\eab7";
+  color: #fff;
+}
+.monex-icon-chevron-selector-vertical:before {
+  content: "\eab8";
+  color: #fff;
+}
+.monex-icon-chevron-selector-horizontal:before {
+  content: "\eab9";
+  color: #fff;
+}
+.monex-icon-chevron-right-double:before {
+  content: "\eaba";
+  color: #fff;
+}
+.monex-icon-chevron-right:before {
+  content: "\eabb";
+  color: #fff;
+}
+.monex-icon-chevron-left-double:before {
+  content: "\eabc";
+  color: #fff;
+}
+.monex-icon-chevron-left:before {
+  content: "\eabd";
+  color: #fff;
+}
+.monex-icon-chevron-down-double:before {
+  content: "\eabe";
+  color: #fff;
+}
+.monex-icon-chevron-down:before {
+  content: "\1f53d";
+  color: #fff;
+}
+.monex-icon-arrows-up:before {
+  content: "\eac0";
+  color: #fff;
+}
+.monex-icon-arrows-triangle:before {
+  content: "\eac1";
+  color: #fff;
+}
+.monex-icon-arrows-right:before {
+  content: "\eac2";
+  color: #fff;
+}
+.monex-icon-arrows-left:before {
+  content: "\eac3";
+  color: #fff;
+}
+.monex-icon-arrows-down:before {
+  content: "\eac4";
+  color: #fff;
+}
+.monex-icon-arrow-up-right:before {
+  content: "\eac5";
+  color: #fff;
+}
+.monex-icon-arrow-up-left:before {
+  content: "\eac6";
+  color: #fff;
+}
+.monex-icon-arrow-up:before {
+  content: "\1f53c";
+  color: #fff;
+}
+.monex-icon-arrow-square-up-right:before {
+  content: "\eac8";
+  color: #fff;
+}
+.monex-icon-arrow-square-up-left:before {
+  content: "\eac9";
+  color: #fff;
+}
+.monex-icon-arrow-square-up:before {
+  content: "\eaca";
+  color: #fff;
+}
+.monex-icon-arrow-square-right:before {
+  content: "\eacb";
+  color: #fff;
+}
+.monex-icon-arrow-square-left:before {
+  content: "\eacc";
+  color: #fff;
+}
+.monex-icon-arrow-square-down-right:before {
+  content: "\eacd";
+  color: #fff;
+}
+.monex-icon-arrow-square-down-left:before {
+  content: "\eace";
+  color: #fff;
+}
+.monex-icon-arrow-square-down:before {
+  content: "\eacf";
+  color: #fff;
+}
+.monex-icon-arrow-right:before {
+  content: "\ead0";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-up-right:before {
+  content: "\ead1";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-up-left:before {
+  content: "\ead2";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-up:before {
+  content: "\ead3";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-right:before {
+  content: "\ead4";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-left:before {
+  content: "\ead5";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-down-right:before {
+  content: "\ead6";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-down-left:before {
+  content: "\ead7";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-down:before {
+  content: "\ead8";
+  color: #fff;
+}
+.monex-icon-arrow-left:before {
+  content: "\ead9";
+  color: #fff;
+}
+.monex-icon-arrow-down-right:before {
+  content: "\eada";
+  color: #fff;
+}
+.monex-icon-arrow-down-left:before {
+  content: "\eadb";
+  color: #fff;
+}
+.monex-icon-arrow-down:before {
+  content: "\eadc";
+  color: #fff;
+}
+.monex-icon-arrow-circle-up-right:before {
+  content: "\eadd";
+  color: #fff;
+}
+.monex-icon-arrow-circle-up-left:before {
+  content: "\eade";
+  color: #fff;
+}
+.monex-icon-arrow-circle-up:before {
+  content: "\eadf";
+  color: #fff;
+}
+.monex-icon-arrow-circle-right:before {
+  content: "\eae0";
+  color: #fff;
+}
+.monex-icon-arrow-circle-left:before {
+  content: "\eae1";
+  color: #fff;
+}
+.monex-icon-arrow-circle-down-right:before {
+  content: "\eae2";
+  color: #fff;
+}
+.monex-icon-arrow-circle-down-left:before {
+  content: "\eae3";
+  color: #fff;
+}
+.monex-icon-arrow-circle-down:before {
+  content: "\eae4";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-up-right:before {
+  content: "\eae5";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-up-left:before {
+  content: "\eae6";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-up:before {
+  content: "\eae7";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-right:before {
+  content: "\eae8";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-left:before {
+  content: "\eae9";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-down-right:before {
+  content: "\eaea";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-down-left:before {
+  content: "\eaeb";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-down:before {
+  content: "\eaec";
+  color: #fff;
+}
+.monex-icon-arrow-block-up:before {
+  content: "\eaed";
+  color: #fff;
+}
+.monex-icon-arrow-block-right:before {
+  content: "\eaee";
+  color: #fff;
+}
+.monex-icon-arrow-block-left:before {
+  content: "\eaef";
+  color: #fff;
+}
+.monex-icon-arrow-block-down:before {
+  content: "\eaf0";
+  color: #fff;
+}
+.monex-icon-switch-vertical-02-outline:before {
+  content: "\eaf5";
+  color: #fff;
+}
+.monex-icon-switch-vertical-01-outline:before {
+  content: "\eaf6";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-02-outline:before {
+  content: "\eaf7";
+  color: #fff;
+}
+.monex-icon-switch-horizontal-01-outline:before {
+  content: "\eaf8";
+  color: #fff;
+}
+.monex-icon-reverse-right-outline:before {
+  content: "\eaf9";
+  color: #fff;
+}
+.monex-icon-reverse-left-outline:before {
+  content: "\eafa";
+  color: #fff;
+}
+.monex-icon-refresh-cw-05-outline:before {
+  content: "\eafb";
+  color: #fff;
+}
+.monex-icon-refresh-cw-04-outline:before {
+  content: "\eafc";
+  color: #fff;
+}
+.monex-icon-refresh-cw-03-outline:before {
+  content: "\eafd";
+  color: #fff;
+}
+.monex-icon-refresh-cw-02-outline:before {
+  content: "\eafe";
+  color: #fff;
+}
+.monex-icon-refresh-cw-01-outline:before {
+  content: "\eaff";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-05-outline:before {
+  content: "\eb00";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-04-outline:before {
+  content: "\eb01";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-03-outline:before {
+  content: "\eb02";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-02-outline:before {
+  content: "\eb03";
+  color: #fff;
+}
+.monex-icon-refresh-ccw-01-outline:before {
+  content: "\eb04";
+  color: #fff;
+}
+.monex-icon-infinity-outline:before {
+  content: "\eb05";
+  color: #fff;
+}
+.monex-icon-flip-forward-outline:before {
+  content: "\eb06";
+  color: #fff;
+}
+.monex-icon-flip-backward-outline:before {
+  content: "\eb07";
+  color: #fff;
+}
+.monex-icon-expand-06-outline:before {
+  content: "\eb08";
+  color: #fff;
+}
+.monex-icon-expand-05-outline:before {
+  content: "\eb09";
+  color: #fff;
+}
+.monex-icon-expand-04-outline:before {
+  content: "\eb0a";
+  color: #fff;
+}
+.monex-icon-expand-03-outline:before {
+  content: "\eb0b";
+  color: #fff;
+}
+.monex-icon-expand-02-outline:before {
+  content: "\eb0c";
+  color: #fff;
+}
+.monex-icon-expand-01-outline:before {
+  content: "\eb0d";
+  color: #fff;
+}
+.monex-icon-corner-up-right-outline:before {
+  content: "\eb0e";
+  color: #fff;
+}
+.monex-icon-corner-up-left-outline:before {
+  content: "\eb0f";
+  color: #fff;
+}
+.monex-icon-corner-right-up-outline:before {
+  content: "\eb10";
+  color: #fff;
+}
+.monex-icon-corner-right-down-outline:before {
+  content: "\eb11";
+  color: #fff;
+}
+.monex-icon-corner-left-up-outline:before {
+  content: "\eb12";
+  color: #fff;
+}
+.monex-icon-corner-left-down-outline:before {
+  content: "\eb13";
+  color: #fff;
+}
+.monex-icon-corner-down-right-outline:before {
+  content: "\eb14";
+  color: #fff;
+}
+.monex-icon-corner-down-left-outline:before {
+  content: "\eb15";
+  color: #fff;
+}
+.monex-icon-chevron-up-double-outline:before {
+  content: "\eb16";
+  color: #fff;
+}
+.monex-icon-chevron-up-outline:before {
+  content: "\eb17";
+  color: #fff;
+}
+.monex-icon-chevron-selector-vertical-outline:before {
+  content: "\eb18";
+  color: #fff;
+}
+.monex-icon-chevron-selector-horizontal-outline:before {
+  content: "\eb19";
+  color: #fff;
+}
+.monex-icon-chevron-right-double-outline:before {
+  content: "\eb1a";
+  color: #fff;
+}
+.monex-icon-chevron-right-outline:before {
+  content: "\eb1b";
+  color: #fff;
+}
+.monex-icon-chevron-left-double-outline:before {
+  content: "\eb1c";
+  color: #fff;
+}
+.monex-icon-chevron-left-outline:before {
+  content: "\eb1d";
+  color: #fff;
+}
+.monex-icon-chevron-down-double-outline:before {
+  content: "\eb1e";
+  color: #fff;
+}
+.monex-icon-chevron-down-outline:before {
+  content: "\eb1f";
+  color: #fff;
+}
+.monex-icon-arrows-up-outline:before {
+  content: "\eb20";
+  color: #fff;
+}
+.monex-icon-arrows-triangle-outline:before {
+  content: "\eb21";
+  color: #fff;
+}
+.monex-icon-arrows-right-outline:before {
+  content: "\eb22";
+  color: #fff;
+}
+.monex-icon-arrows-left-outline:before {
+  content: "\eb23";
+  color: #fff;
+}
+.monex-icon-arrows-down-outline:before {
+  content: "\eb24";
+  color: #fff;
+}
+.monex-icon-arrow-up-right-outline:before {
+  content: "\eb25";
+  color: #fff;
+}
+.monex-icon-arrow-up-left-outline:before {
+  content: "\eb26";
+  color: #fff;
+}
+.monex-icon-arrow-up-outline:before {
+  content: "\eb27";
+  color: #fff;
+}
+.monex-icon-arrow-square-up-right-outline:before {
+  content: "\eb28";
+  color: #fff;
+}
+.monex-icon-arrow-square-up-left-outline:before {
+  content: "\eb29";
+  color: #fff;
+}
+.monex-icon-arrow-square-up-outline:before {
+  content: "\eb2a";
+  color: #fff;
+}
+.monex-icon-arrow-square-right-outline:before {
+  content: "\eb2b";
+  color: #fff;
+}
+.monex-icon-arrow-square-left-outline:before {
+  content: "\eb2c";
+  color: #fff;
+}
+.monex-icon-arrow-square-down-right-outline:before {
+  content: "\eb2d";
+  color: #fff;
+}
+.monex-icon-arrow-square-down-left-outline:before {
+  content: "\eb2e";
+  color: #fff;
+}
+.monex-icon-arrow-square-down-outline:before {
+  content: "\eb2f";
+  color: #fff;
+}
+.monex-icon-arrow-right-outline:before {
+  content: "\eb30";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-up-right-outline:before {
+  content: "\eb31";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-up-left-outline:before {
+  content: "\eb32";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-up-outline:before {
+  content: "\eb33";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-right-outline:before {
+  content: "\eb34";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-left-outline:before {
+  content: "\eb35";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-down-right-outline:before {
+  content: "\eb36";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-down-left-outline:before {
+  content: "\eb37";
+  color: #fff;
+}
+.monex-icon-arrow-narrow-down-outline:before {
+  content: "\eb38";
+  color: #fff;
+}
+.monex-icon-arrow-left-outline:before {
+  content: "\eb39";
+  color: #fff;
+}
+.monex-icon-arrow-down-right-outline:before {
+  content: "\eb3a";
+  color: #fff;
+}
+.monex-icon-arrow-down-left-outline:before {
+  content: "\eb3b";
+  color: #fff;
+}
+.monex-icon-arrow-down-outline:before {
+  content: "\eb3c";
+  color: #fff;
+}
+.monex-icon-arrow-circle-up-right-outline:before {
+  content: "\eb3d";
+  color: #fff;
+}
+.monex-icon-arrow-circle-up-left-outline:before {
+  content: "\eb3e";
+  color: #fff;
+}
+.monex-icon-arrow-circle-up-outline:before {
+  content: "\eb3f";
+  color: #fff;
+}
+.monex-icon-arrow-circle-right-outline:before {
+  content: "\eb40";
+  color: #fff;
+}
+.monex-icon-arrow-circle-left-outline:before {
+  content: "\eb41";
+  color: #fff;
+}
+.monex-icon-arrow-circle-down-right-outline:before {
+  content: "\eb42";
+  color: #fff;
+}
+.monex-icon-arrow-circle-down-left-outline:before {
+  content: "\eb43";
+  color: #fff;
+}
+.monex-icon-arrow-circle-down-outline:before {
+  content: "\eb44";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-up-right-outline:before {
+  content: "\eb45";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-up-left-outline:before {
+  content: "\eb46";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-up-outline:before {
+  content: "\eb47";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-right-outline:before {
+  content: "\eb48";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-left-outline:before {
+  content: "\eb49";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-down-right-outline:before {
+  content: "\eb4a";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-down-left-outline:before {
+  content: "\eb4b";
+  color: #fff;
+}
+.monex-icon-arrow-circle-broken-down-outline:before {
+  content: "\eb4c";
+  color: #fff;
+}
+.monex-icon-arrow-block-up-outline:before {
+  content: "\eb4d";
+  color: #fff;
+}
+.monex-icon-arrow-block-right-outline:before {
+  content: "\eb4e";
+  color: #fff;
+}
+.monex-icon-arrow-block-left-outline:before {
+  content: "\eb4f";
+  color: #fff;
+}
+.monex-icon-arrow-block-down-outline:before {
+  content: "\eb50";
+  color: #fff;
+}
 .monex-icon-link-05:before {
   content: "\e9c2";
   color: #fff;
