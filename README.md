@@ -3,6 +3,10 @@
 ### Maintainer: Jose Devian (jose.devian@mifx.com)
 
 ## Changelogs:
+v0.3.1 (Mar 19, 2024):
+- added Charts, Communications, and Users icons (outlined and filled)
+- removed problematic icons (not displayed properly) from the font. issue is known.
+
 v0.2 (Mar 11, 2024):
 - added Arrow icons (outlined and filled)
 
