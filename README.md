@@ -3,6 +3,10 @@
 ### Maintainer: Jose Devian (jose.devian@mifx.com)
 
 ## Changelogs:
+v0.4 (Apr 5, 2024):
+- added Layout, Alerts & Feedback and Shapes icons (outlined and filled)
+- changed displayed colors to black when loading the selection.json to icomoon
+
 v0.3.1 (Mar 19, 2024):
 - added Charts, Communications, and Users icons (outlined and filled)
 - removed problematic icons (not displayed properly) from the font. issue is known.
