@@ -1,8 +1,12 @@
-# monex-icon
+# mifx-icon
 
 ### Maintainer: Jose Devian (jose.devian@mifx.com)
+#### Co-maintainer: M. Aqil Wiputra (aqil@mifx.com)
 
 ## Changelogs:
+v0.5 (May 3, 2024):
+- added Media & Devices, Development, Files, Security, Finance & eCommerce, Images, Editor, Time, Maps & Travel, Weather, Education (Aqil).
+
 v0.4 (Apr 5, 2024):
 - added Layout, Alerts & Feedback and Shapes icons (outlined and filled)
 - changed displayed colors to black when loading the selection.json to icomoon

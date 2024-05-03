@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?a9zmqz');
-  src:  url('fonts/monex-icon.eot?a9zmqz#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?a9zmqz') format('truetype'),
-    url('fonts/monex-icon.woff?a9zmqz') format('woff'),
-    url('fonts/monex-icon.svg?a9zmqz#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?8d4mz4');
+  src:  url('fonts/monex-icon.eot?8d4mz4#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?8d4mz4') format('truetype'),
+    url('fonts/monex-icon.woff?8d4mz4') format('woff'),
+    url('fonts/monex-icon.svg?8d4mz4#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,3207 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-trophy-02:before {
+  content: "\ed13";
+}
+.monex-icon-telescope:before {
+  content: "\ed57";
+}
+.monex-icon-stand:before {
+  content: "\ed58";
+}
+.monex-icon-microscope:before {
+  content: "\ed59";
+}
+.monex-icon-graduation-hat-02:before {
+  content: "\ed5a";
+}
+.monex-icon-graduation-hat-01:before {
+  content: "\ed5b";
+}
+.monex-icon-globe-slated-02:before {
+  content: "\ed5c";
+}
+.monex-icon-globe-slated-01:before {
+  content: "\ed5d";
+}
+.monex-icon-glasses-02:before {
+  content: "\ed5e";
+}
+.monex-icon-glasses-01:before {
+  content: "\ed5f";
+}
+.monex-icon-compass:before {
+  content: "\ed60";
+}
+.monex-icon-briefcase-01:before {
+  content: "\ed61";
+}
+.monex-icon-book-open-02:before {
+  content: "\ed62";
+}
+.monex-icon-book-open-01:before {
+  content: "\ed63";
+}
+.monex-icon-book-closed:before {
+  content: "\ed64";
+}
+.monex-icon-beaker-02:before {
+  content: "\ed65";
+}
+.monex-icon-beaker-01:before {
+  content: "\ed66";
+}
+.monex-icon-award-04:before {
+  content: "\ed67";
+}
+.monex-icon-award-03:before {
+  content: "\ed68";
+}
+.monex-icon-award-02:before {
+  content: "\ed69";
+}
+.monex-icon-award-01:before {
+  content: "\ed6a";
+}
+.monex-icon-trophy-02-outline:before {
+  content: "\ed6b";
+}
+.monex-icon-stand-outline:before {
+  content: "\ed6c";
+}
+.monex-icon-ruler-outline:before {
+  content: "\ed6d";
+}
+.monex-icon-graduation-hat-02-outline:before {
+  content: "\ed6e";
+}
+.monex-icon-graduation-hat-01-outline:before {
+  content: "\ed6f";
+}
+.monex-icon-globe-slated-02-outline:before {
+  content: "\ed70";
+}
+.monex-icon-certificate-02-outline:before {
+  content: "\ed71";
+}
+.monex-icon-calculator-outline:before {
+  content: "\ed72";
+}
+.monex-icon-briefcase-02-outline:before {
+  content: "\ed73";
+}
+.monex-icon-book-open-02-outline:before {
+  content: "\ed74";
+}
+.monex-icon-book-open-01-outline:before {
+  content: "\ed75";
+}
+.monex-icon-book-closed-outline:before {
+  content: "\ed76";
+}
+.monex-icon-beaker-02-outline:before {
+  content: "\ed77";
+}
+.monex-icon-beaker-01-outline:before {
+  content: "\ed78";
+}
+.monex-icon-backpack-outline:before {
+  content: "\ed79";
+}
+.monex-icon-award-04-outline:before {
+  content: "\ed7a";
+}
+.monex-icon-award-02-outline:before {
+  content: "\ed7b";
+}
+.monex-icon-atom-01-outline:before {
+  content: "\ed7c";
+}
+.monex-icon-wind-03:before {
+  content: "\ed7d";
+}
+.monex-icon-wind-02:before {
+  content: "\ed7e";
+}
+.monex-icon-wind-01:before {
+  content: "\ed7f";
+}
+.monex-icon-waves:before {
+  content: "\ed80";
+}
+.monex-icon-umbrella-02:before {
+  content: "\ed81";
+}
+.monex-icon-umbrella-01:before {
+  content: "\ed82";
+}
+.monex-icon-thermometer-warm:before {
+  content: "\ed83";
+}
+.monex-icon-thermometer-cold:before {
+  content: "\ed84";
+}
+.monex-icon-thermometer-03:before {
+  content: "\ed85";
+}
+.monex-icon-thermometer-02:before {
+  content: "\ed86";
+}
+.monex-icon-thermometer-01:before {
+  content: "\ed87";
+}
+.monex-icon-sunset:before {
+  content: "\ed88";
+}
+.monex-icon-sunrise:before {
+  content: "\ed89";
+}
+.monex-icon-sun-setting-03:before {
+  content: "\ed8a";
+}
+.monex-icon-sun-setting-02:before {
+  content: "\ed8b";
+}
+.monex-icon-sun-setting-01:before {
+  content: "\ed8c";
+}
+.monex-icon-sun:before {
+  content: "\ed8d";
+}
+.monex-icon-stars-03:before {
+  content: "\ed8e";
+}
+.monex-icon-stars-02:before {
+  content: "\ed8f";
+}
+.monex-icon-stars-01:before {
+  content: "\ed90";
+}
+.monex-icon-snowflake-02:before {
+  content: "\ed91";
+}
+.monex-icon-snowflake-01:before {
+  content: "\ed92";
+}
+.monex-icon-moon-star:before {
+  content: "\ed93";
+}
+.monex-icon-moon-eclipse:before {
+  content: "\ed94";
+}
+.monex-icon-moon-02:before {
+  content: "\ed95";
+}
+.monex-icon-moon-01:before {
+  content: "\ed96";
+}
+.monex-icon-lightning-02:before {
+  content: "\ed97";
+}
+.monex-icon-lightning-01:before {
+  content: "\ed98";
+}
+.monex-icon-hurricane-03:before {
+  content: "\ed99";
+}
+.monex-icon-hurricane-02:before {
+  content: "\ed9a";
+}
+.monex-icon-hurricane-01:before {
+  content: "\ed9b";
+}
+.monex-icon-droplets-03:before {
+  content: "\ed9c";
+}
+.monex-icon-droplets-02:before {
+  content: "\ed9d";
+}
+.monex-icon-droplets-01:before {
+  content: "\ed9e";
+}
+.monex-icon-cloud-sun-03:before {
+  content: "\ed9f";
+}
+.monex-icon-cloud-sun-02:before {
+  content: "\eda0";
+}
+.monex-icon-cloud-sun-01:before {
+  content: "\eda1";
+}
+.monex-icon-cloud-snowing-02:before {
+  content: "\eda2";
+}
+.monex-icon-cloud-snowing-01:before {
+  content: "\eda3";
+}
+.monex-icon-cloud-raining-06:before {
+  content: "\eda4";
+}
+.monex-icon-cloud-raining-05:before {
+  content: "\eda5";
+}
+.monex-icon-cloud-raining-04:before {
+  content: "\eda6";
+}
+.monex-icon-cloud-raining-03:before {
+  content: "\eda7";
+}
+.monex-icon-cloud-raining-02:before {
+  content: "\eda8";
+}
+.monex-icon-cloud-raining-01:before {
+  content: "\eda9";
+}
+.monex-icon-cloud-off:before {
+  content: "\edaa";
+}
+.monex-icon-cloud-moon:before {
+  content: "\edab";
+}
+.monex-icon-cloud-lightning:before {
+  content: "\edac";
+}
+.monex-icon-cloud-03:before {
+  content: "\edad";
+}
+.monex-icon-cloud-02:before {
+  content: "\edae";
+}
+.monex-icon-cloud-01:before {
+  content: "\edaf";
+}
+.monex-icon-wind-03-outline:before {
+  content: "\edb0";
+}
+.monex-icon-wind-02-outline:before {
+  content: "\edb1";
+}
+.monex-icon-wind-01-outline:before {
+  content: "\edb2";
+}
+.monex-icon-waves-outline:before {
+  content: "\edb3";
+}
+.monex-icon-umbrella-01-outline:before {
+  content: "\edb4";
+}
+.monex-icon-thermometer-warm-outline:before {
+  content: "\edb5";
+}
+.monex-icon-thermometer-cold-outline:before {
+  content: "\edb6";
+}
+.monex-icon-thermometer-03-outline:before {
+  content: "\edb7";
+}
+.monex-icon-thermometer-02-outline:before {
+  content: "\edb8";
+}
+.monex-icon-thermometer-01-outline:before {
+  content: "\edb9";
+}
+.monex-icon-sunset-outline:before {
+  content: "\edba";
+}
+.monex-icon-sunrise-outline:before {
+  content: "\edbb";
+}
+.monex-icon-sun-setting-03-outline:before {
+  content: "\edbc";
+}
+.monex-icon-sun-setting-02-outline:before {
+  content: "\edbd";
+}
+.monex-icon-sun-outline:before {
+  content: "\edbe";
+}
+.monex-icon-stars-03-outline:before {
+  content: "\edbf";
+}
+.monex-icon-stars-02-outline:before {
+  content: "\edc0";
+}
+.monex-icon-stars-01-outline:before {
+  content: "\edc1";
+}
+.monex-icon-snowflake-02-outline:before {
+  content: "\edc2";
+}
+.monex-icon-snowflake-01-outline:before {
+  content: "\edc3";
+}
+.monex-icon-moon-star-outline:before {
+  content: "\edc4";
+}
+.monex-icon-moon-eclipse-outline:before {
+  content: "\edc5";
+}
+.monex-icon-moon-02-outline:before {
+  content: "\edc6";
+}
+.monex-icon-moon-01-outline:before {
+  content: "\edc7";
+}
+.monex-icon-lightning-02-outline:before {
+  content: "\edc8";
+}
+.monex-icon-lightning-01-outline:before {
+  content: "\edc9";
+}
+.monex-icon-hurricane-03-outline:before {
+  content: "\edca";
+}
+.monex-icon-hurricane-02-outline:before {
+  content: "\edcb";
+}
+.monex-icon-hurricane-01-outline:before {
+  content: "\edcc";
+}
+.monex-icon-droplets-02-outline:before {
+  content: "\edcd";
+}
+.monex-icon-droplets-01-outline:before {
+  content: "\edce";
+}
+.monex-icon-cloud-sun-03-outline:before {
+  content: "\edcf";
+}
+.monex-icon-cloud-sun-02-outline:before {
+  content: "\edd0";
+}
+.monex-icon-cloud-sun-01-outline:before {
+  content: "\edd1";
+}
+.monex-icon-cloud-snowing-02-outline:before {
+  content: "\edd2";
+}
+.monex-icon-cloud-snowing-01-outline:before {
+  content: "\edd3";
+}
+.monex-icon-cloud-raining-06-outline:before {
+  content: "\edd4";
+}
+.monex-icon-cloud-raining-05-outline:before {
+  content: "\edd5";
+}
+.monex-icon-cloud-raining-04-outline:before {
+  content: "\edd6";
+}
+.monex-icon-cloud-raining-03-outline:before {
+  content: "\edd7";
+}
+.monex-icon-cloud-raining-02-outline:before {
+  content: "\edd8";
+}
+.monex-icon-cloud-raining-01-outline:before {
+  content: "\edd9";
+}
+.monex-icon-cloud-off-outline:before {
+  content: "\edda";
+}
+.monex-icon-cloud-moon-outline:before {
+  content: "\eddb";
+}
+.monex-icon-cloud-lightning-outline:before {
+  content: "\eddc";
+}
+.monex-icon-cloud-03-outline:before {
+  content: "\eddd";
+}
+.monex-icon-cloud-02-outline:before {
+  content: "\edde";
+}
+.monex-icon-cloud-01-outline:before {
+  content: "\eddf";
+}
+.monex-icon-tram:before {
+  content: "\ede0";
+}
+.monex-icon-train:before {
+  content: "\ede1";
+}
+.monex-icon-route:before {
+  content: "\ede2";
+}
+.monex-icon-rocket-02:before {
+  content: "\ede3";
+}
+.monex-icon-plane:before {
+  content: "\ede4";
+}
+.monex-icon-rocket-01:before {
+  content: "\ede5";
+}
+.monex-icon-passport:before {
+  content: "\ede6";
+}
+.monex-icon-navigation-pointer-off-02:before {
+  content: "\ede7";
+}
+.monex-icon-navigation-pointer-off-01:before {
+  content: "\ede8";
+}
+.monex-icon-navigation-pointer-02:before {
+  content: "\ede9";
+}
+.monex-icon-navigation-pointer-01:before {
+  content: "\edea";
+}
+.monex-icon-marker-pin-06:before {
+  content: "\edeb";
+}
+.monex-icon-marker-pin-05:before {
+  content: "\edec";
+}
+.monex-icon-marker-pin-04:before {
+  content: "\eded";
+}
+.monex-icon-marker-pin-03:before {
+  content: "\edee";
+}
+.monex-icon-marker-pin-02:before {
+  content: "\edef";
+}
+.monex-icon-marker-pin-01:before {
+  content: "\edf0";
+}
+.monex-icon-mark:before {
+  content: "\edf1";
+}
+.monex-icon-map-02:before {
+  content: "\edf2";
+}
+.monex-icon-map-01:before {
+  content: "\edf3";
+}
+.monex-icon-luggage-03:before {
+  content: "\edf4";
+}
+.monex-icon-globe-06:before {
+  content: "\edf5";
+}
+.monex-icon-globe-04:before {
+  content: "\edf6";
+}
+.monex-icon-flag-06:before {
+  content: "\edf7";
+}
+.monex-icon-flag-05:before {
+  content: "\edf8";
+}
+.monex-icon-flag-04:before {
+  content: "\edf9";
+}
+.monex-icon-flag-03:before {
+  content: "\edfa";
+}
+.monex-icon-flag-02:before {
+  content: "\edfb";
+}
+.monex-icon-flag-01:before {
+  content: "\edfc";
+}
+.monex-icon-compass-03:before {
+  content: "\edfd";
+}
+.monex-icon-truck-02-outline:before {
+  content: "\edfe";
+}
+.monex-icon-tram-outline:before {
+  content: "\edff";
+}
+.monex-icon-train-outline:before {
+  content: "\ee00";
+}
+.monex-icon-ticket-02-outline:before {
+  content: "\ee01";
+}
+.monex-icon-ticket-01-outline:before {
+  content: "\ee02";
+}
+.monex-icon-route-outline:before {
+  content: "\ee03";
+}
+.monex-icon-rocket-02-outline:before {
+  content: "\ee04";
+}
+.monex-icon-plane-outline:before {
+  content: "\ee05";
+}
+.monex-icon-rocket-01-outline:before {
+  content: "\ee06";
+}
+.monex-icon-passport-outline:before {
+  content: "\ee07";
+}
+.monex-icon-navigation-pointer-off-02-outline:before {
+  content: "\ee08";
+}
+.monex-icon-navigation-pointer-off-01-outline:before {
+  content: "\ee09";
+}
+.monex-icon-navigation-pointer-02-outline:before {
+  content: "\ee0a";
+}
+.monex-icon-navigation-pointer-01-outline:before {
+  content: "\ee0b";
+}
+.monex-icon-marker-pin-06-outline:before {
+  content: "\ee0c";
+}
+.monex-icon-marker-pin-05-outline:before {
+  content: "\ee0d";
+}
+.monex-icon-marker-pin-04-outline:before {
+  content: "\ee0e";
+}
+.monex-icon-marker-pin-03-outline:before {
+  content: "\ee0f";
+}
+.monex-icon-marker-pin-02-outline:before {
+  content: "\ee10";
+}
+.monex-icon-marker-pin-01-outline:before {
+  content: "\ee11";
+}
+.monex-icon-mark-outline:before {
+  content: "\ee12";
+}
+.monex-icon-map-02-outline:before {
+  content: "\ee13";
+}
+.monex-icon-map-01-outline:before {
+  content: "\ee14";
+}
+.monex-icon-luggage-03-outline:before {
+  content: "\ee15";
+}
+.monex-icon-luggage-02-outline:before {
+  content: "\ee16";
+}
+.monex-icon-luggage-01-outline:before {
+  content: "\ee17";
+}
+.monex-icon-globe-06-outline:before {
+  content: "\ee18";
+}
+.monex-icon-globe-05-outline:before {
+  content: "\ee19";
+}
+.monex-icon-globe-04-outline:before {
+  content: "\ee1a";
+}
+.monex-icon-flag-06-outline:before {
+  content: "\ee1b";
+}
+.monex-icon-flag-05-outline:before {
+  content: "\ee1c";
+}
+.monex-icon-flag-04-outline:before {
+  content: "\ee1d";
+}
+.monex-icon-flag-03-outline:before {
+  content: "\ee1e";
+}
+.monex-icon-flag-02-outline:before {
+  content: "\ee1f";
+}
+.monex-icon-flag-01-outline:before {
+  content: "\ee20";
+}
+.monex-icon-compass-03-outline:before {
+  content: "\ee21";
+}
+.monex-icon-car-01-outline:before {
+  content: "\ee22";
+}
+.monex-icon-bus-outline:before {
+  content: "\ee23";
+}
+.monex-icon-clock-refresh:before {
+  content: "\ee24";
+}
+.monex-icon-hourglass-02:before {
+  content: "\ee25";
+}
+.monex-icon-hourglass-01:before {
+  content: "\ee26";
+}
+.monex-icon-clock-stopwatch:before {
+  content: "\ee27";
+}
+.monex-icon-clock-snooze:before {
+  content: "\ee28";
+}
+.monex-icon-clock-rewind:before {
+  content: "\ee29";
+}
+.monex-icon-clock-plus:before {
+  content: "\ee2a";
+}
+.monex-icon-clock-fast-forward:before {
+  content: "\ee2b";
+}
+.monex-icon-clock-check:before {
+  content: "\ee2c";
+}
+.monex-icon-clock:before {
+  content: "\ee2d";
+}
+.monex-icon-calendar-plus-02:before {
+  content: "\ee2e";
+}
+.monex-icon-calendar-minus-02:before {
+  content: "\ee2f";
+}
+.monex-icon-calendar-minus-01:before {
+  content: "\ee30";
+}
+.monex-icon-calendar-heart-02:before {
+  content: "\ee31";
+}
+.monex-icon-calendar-heart-01:before {
+  content: "\ee32";
+}
+.monex-icon-calendar:before {
+  content: "\ee33";
+}
+.monex-icon-alarm-clock-plus:before {
+  content: "\ee34";
+}
+.monex-icon-alarm-clock-off:before {
+  content: "\ee35";
+}
+.monex-icon-alarm-clock-minus:before {
+  content: "\ee36";
+}
+.monex-icon-alarm-clock-check:before {
+  content: "\ee37";
+}
+.monex-icon-alarm-clock:before {
+  content: "\ee38";
+}
+.monex-icon-watch-square-outline:before {
+  content: "\ee39";
+}
+.monex-icon-watch-circle-outline:before {
+  content: "\ee3a";
+}
+.monex-icon-clock-refresh-outline:before {
+  content: "\ee3b";
+}
+.monex-icon-hourglass-02-outline:before {
+  content: "\ee3c";
+}
+.monex-icon-hourglass-01-outline:before {
+  content: "\ee3d";
+}
+.monex-icon-clock-stopwatch-outline:before {
+  content: "\ee3e";
+}
+.monex-icon-clock-snooze-outline:before {
+  content: "\ee3f";
+}
+.monex-icon-clock-rewind-outline:before {
+  content: "\ee40";
+}
+.monex-icon-clock-plus-outline:before {
+  content: "\ee41";
+}
+.monex-icon-clock-fast-forward-outline:before {
+  content: "\ee42";
+}
+.monex-icon-clock-check-outline:before {
+  content: "\ee43";
+}
+.monex-icon-clock-outline:before {
+  content: "\ee44";
+}
+.monex-icon-calendar-plus-02-outline:before {
+  content: "\ee45";
+}
+.monex-icon-calendar-plus-01-outline:before {
+  content: "\ee46";
+}
+.monex-icon-calendar-minus-02-outline:before {
+  content: "\ee47";
+}
+.monex-icon-calendar-minus-01-outline:before {
+  content: "\ee48";
+}
+.monex-icon-calendar-heart-02-outline:before {
+  content: "\ee49";
+}
+.monex-icon-calendar-date-outline:before {
+  content: "\ee4a";
+}
+.monex-icon-calendar-check-02-outline:before {
+  content: "\ee4b";
+}
+.monex-icon-calendar-check-01-outline:before {
+  content: "\ee4c";
+}
+.monex-icon-calendar-outline:before {
+  content: "\ee4d";
+}
+.monex-icon-alarm-clock-plus-outline:before {
+  content: "\ee4e";
+}
+.monex-icon-alarm-clock-off-outline:before {
+  content: "\ee4f";
+}
+.monex-icon-alarm-clock-minus-outline:before {
+  content: "\ee50";
+}
+.monex-icon-alarm-clock-check-outline:before {
+  content: "\ee51";
+}
+.monex-icon-alarm-clock-outline:before {
+  content: "\ee52";
+}
+.monex-icon-zoom-out:before {
+  content: "\ee53";
+}
+.monex-icon-zoom-in:before {
+  content: "\ee54";
+}
+.monex-icon-underline-square:before {
+  content: "\ee55";
+}
+.monex-icon-underline-02:before {
+  content: "\ee56";
+}
+.monex-icon-underline-01:before {
+  content: "\ee57";
+}
+.monex-icon-type-strikethrough-02:before {
+  content: "\ee58";
+}
+.monex-icon-type-strikethrough-01:before {
+  content: "\ee59";
+}
+.monex-icon-type-square:before {
+  content: "\ee5a";
+}
+.monex-icon-type-02:before {
+  content: "\ee5b";
+}
+.monex-icon-type-01:before {
+  content: "\ee5c";
+}
+.monex-icon-transform:before {
+  content: "\ee5d";
+}
+.monex-icon-text-input:before {
+  content: "\ee5e";
+}
+.monex-icon-subscript:before {
+  content: "\ee5f";
+}
+.monex-icon-strikethrough-02:before {
+  content: "\ee60";
+}
+.monex-icon-strikethrough-01:before {
+  content: "\ee61";
+}
+.monex-icon-skew:before {
+  content: "\ee62";
+}
+.monex-icon-scale-03:before {
+  content: "\ee63";
+}
+.monex-icon-scale-02:before {
+  content: "\ee64";
+}
+.monex-icon-scale-01:before {
+  content: "\ee65";
+}
+.monex-icon-roller-brush:before {
+  content: "\ee66";
+}
+.monex-icon-right-indent-02:before {
+  content: "\ee67";
+}
+.monex-icon-right-indent-01:before {
+  content: "\ee68";
+}
+.monex-icon-reflect-02:before {
+  content: "\ee69";
+}
+.monex-icon-reflect-01:before {
+  content: "\ee6a";
+}
+.monex-icon-pilcrow-square:before {
+  content: "\ee6b";
+}
+.monex-icon-pilcrow-02:before {
+  content: "\ee6c";
+}
+.monex-icon-pilcrow-01:before {
+  content: "\ee6d";
+}
+.monex-icon-perspective-01:before {
+  content: "\ee6e";
+}
+.monex-icon-pencil-line:before {
+  content: "\ee6f";
+}
+.monex-icon-pencil-02:before {
+  content: "\ee70";
+}
+.monex-icon-pencil-01:before {
+  content: "\ee71";
+}
+.monex-icon-pen-tool-plus:before {
+  content: "\ee72";
+}
+.monex-icon-pen-tool-minus:before {
+  content: "\ee73";
+}
+.monex-icon-pen-tool-02:before {
+  content: "\ee74";
+}
+.monex-icon-pen-tool-01:before {
+  content: "\ee75";
+}
+.monex-icon-paragraph-wrap:before {
+  content: "\ee76";
+}
+.monex-icon-paragraph-spacing:before {
+  content: "\ee77";
+}
+.monex-icon-paint-pour:before {
+  content: "\ee78";
+}
+.monex-icon-paint:before {
+  content: "\ee79";
+}
+.monex-icon-move:before {
+  content: "\ee7a";
+}
+.monex-icon-magic-wand-02:before {
+  content: "\ee7b";
+}
+.monex-icon-magic-wand-01:before {
+  content: "\ee7c";
+}
+.monex-icon-line-height:before {
+  content: "\ee7d";
+}
+.monex-icon-letter-spacing-02:before {
+  content: "\ee7e";
+}
+.monex-icon-letter-spacing-01:before {
+  content: "\ee7f";
+}
+.monex-icon-left-indent-02:before {
+  content: "\ee80";
+}
+.monex-icon-left-indent-01:before {
+  content: "\ee81";
+}
+.monex-icon-italic-square:before {
+  content: "\ee82";
+}
+.monex-icon-italic-02:before {
+  content: "\ee83";
+}
+.monex-icon-italic-01:before {
+  content: "\ee84";
+}
+.monex-icon-image-indent-right:before {
+  content: "\ee85";
+}
+.monex-icon-image-indent-left:before {
+  content: "\ee86";
+}
+.monex-icon-heading-square:before {
+  content: "\ee87";
+}
+.monex-icon-heading-02:before {
+  content: "\ee88";
+}
+.monex-icon-heading-01:before {
+  content: "\ee89";
+}
+.monex-icon-hand:before {
+  content: "\ee8a";
+}
+.monex-icon-feather:before {
+  content: "\ee8b";
+}
+.monex-icon-eraser:before {
+  content: "\ee8c";
+}
+.monex-icon-dropper:before {
+  content: "\ee8d";
+}
+.monex-icon-drop:before {
+  content: "\ee8e";
+}
+.monex-icon-dotpoints-02:before {
+  content: "\ee8f";
+}
+.monex-icon-dotpoints-01:before {
+  content: "\ee90";
+}
+.monex-icon-delete:before {
+  content: "\ee91";
+}
+.monex-icon-cursor-click-02:before {
+  content: "\ee92";
+}
+.monex-icon-cursor-click-01:before {
+  content: "\ee93";
+}
+.monex-icon-cursor-box:before {
+  content: "\ee94";
+}
+.monex-icon-cursor-04:before {
+  content: "\ee95";
+}
+.monex-icon-cursor-03:before {
+  content: "\ee96";
+}
+.monex-icon-cursor-02:before {
+  content: "\ee97";
+}
+.monex-icon-cursor-01:before {
+  content: "\ee98";
+}
+.monex-icon-crop-02:before {
+  content: "\ee99";
+}
+.monex-icon-crop-01:before {
+  content: "\ee9a";
+}
+.monex-icon-contrast-03:before {
+  content: "\ee9b";
+}
+.monex-icon-contrast-02:before {
+  content: "\ee9c";
+}
+.monex-icon-contrast-01:before {
+  content: "\ee9d";
+}
+.monex-icon-command:before {
+  content: "\ee9e";
+}
+.monex-icon-code-snippet-02:before {
+  content: "\ee9f";
+}
+.monex-icon-code-snippet-01:before {
+  content: "\eea0";
+}
+.monex-icon-circle-cut:before {
+  content: "\eea1";
+}
+.monex-icon-brush-03:before {
+  content: "\eea2";
+}
+.monex-icon-brush-02:before {
+  content: "\eea3";
+}
+.monex-icon-brush-01:before {
+  content: "\eea4";
+}
+.monex-icon-bold-square:before {
+  content: "\eea5";
+}
+.monex-icon-bold-02:before {
+  content: "\eea6";
+}
+.monex-icon-bold-01:before {
+  content: "\eea7";
+}
+.monex-icon-bezier-curve-03:before {
+  content: "\eea8";
+}
+.monex-icon-bezier-curve-02:before {
+  content: "\eea9";
+}
+.monex-icon-bezier-curve-01:before {
+  content: "\eeaa";
+}
+.monex-icon-attachment-02:before {
+  content: "\eeab";
+}
+.monex-icon-attachment-01:before {
+  content: "\eeac";
+}
+.monex-icon-align-right:before {
+  content: "\eead";
+}
+.monex-icon-align-left:before {
+  content: "\eeae";
+}
+.monex-icon-align-justify:before {
+  content: "\eeaf";
+}
+.monex-icon-align-center:before {
+  content: "\eeb0";
+}
+.monex-icon-zoom-out-outline:before {
+  content: "\eeb1";
+}
+.monex-icon-zoom-in-outline:before {
+  content: "\eeb2";
+}
+.monex-icon-underline-square-outline:before {
+  content: "\eeb3";
+}
+.monex-icon-underline-02-outline:before {
+  content: "\eeb4";
+}
+.monex-icon-underline-01-outline:before {
+  content: "\eeb5";
+}
+.monex-icon-type-strikethrough-02-outline:before {
+  content: "\eeb6";
+}
+.monex-icon-type-strikethrough-01-outline:before {
+  content: "\eeb7";
+}
+.monex-icon-type-square-outline:before {
+  content: "\eeb8";
+}
+.monex-icon-type-02-outline:before {
+  content: "\eeb9";
+}
+.monex-icon-type-01-outline:before {
+  content: "\eeba";
+}
+.monex-icon-transform-outline:before {
+  content: "\eebb";
+}
+.monex-icon-text-input-outline:before {
+  content: "\eebc";
+}
+.monex-icon-subscript-outline:before {
+  content: "\eebd";
+}
+.monex-icon-strikethrough-square-outline:before {
+  content: "\eebe";
+}
+.monex-icon-strikethrough-02-outline:before {
+  content: "\eebf";
+}
+.monex-icon-strikethrough-01-outline:before {
+  content: "\eec0";
+}
+.monex-icon-skew-outline:before {
+  content: "\eec1";
+}
+.monex-icon-scissors-cut-02-outline:before {
+  content: "\eec2";
+}
+.monex-icon-scissors-cut-01-outline:before {
+  content: "\eec3";
+}
+.monex-icon-scissors-02-outline:before {
+  content: "\eec4";
+}
+.monex-icon-scissors-01-outline:before {
+  content: "\eec5";
+}
+.monex-icon-scale-03-outline:before {
+  content: "\eec6";
+}
+.monex-icon-scale-02-outline:before {
+  content: "\eec7";
+}
+.monex-icon-scale-01-outline:before {
+  content: "\eec8";
+}
+.monex-icon-roller-brush-outline:before {
+  content: "\eec9";
+}
+.monex-icon-right-indent-02-outline:before {
+  content: "\eeca";
+}
+.monex-icon-right-indent-01-outline:before {
+  content: "\eecb";
+}
+.monex-icon-reflect-02-outline:before {
+  content: "\eecc";
+}
+.monex-icon-reflect-01-outline:before {
+  content: "\eecd";
+}
+.monex-icon-pilcrow-square-outline:before {
+  content: "\eece";
+}
+.monex-icon-pilcrow-01-outline:before {
+  content: "\eecf";
+}
+.monex-icon-perspective-01-outline:before {
+  content: "\eed0";
+}
+.monex-icon-pencil-line-outline:before {
+  content: "\eed1";
+}
+.monex-icon-pencil-02-outline:before {
+  content: "\eed2";
+}
+.monex-icon-pencil-01-outline:before {
+  content: "\eed3";
+}
+.monex-icon-pen-tool-plus-outline:before {
+  content: "\eed4";
+}
+.monex-icon-pen-tool-02-outline:before {
+  content: "\eed5";
+}
+.monex-icon-pen-tool-01-outline:before {
+  content: "\eed6";
+}
+.monex-icon-paragraph-wrap-outline:before {
+  content: "\eed7";
+}
+.monex-icon-paragraph-spacing-outline:before {
+  content: "\eed8";
+}
+.monex-icon-palette-outline:before {
+  content: "\eed9";
+}
+.monex-icon-paint-outline:before {
+  content: "\eeda";
+}
+.monex-icon-move-outline:before {
+  content: "\eedb";
+}
+.monex-icon-magic-wand-02-outline:before {
+  content: "\eedc";
+}
+.monex-icon-line-height-outline:before {
+  content: "\eedd";
+}
+.monex-icon-letter-spacing-02-outline:before {
+  content: "\eede";
+}
+.monex-icon-letter-spacing-01-outline:before {
+  content: "\eedf";
+}
+.monex-icon-left-indent-02-outline:before {
+  content: "\eee0";
+}
+.monex-icon-left-indent-01-outline:before {
+  content: "\eee1";
+}
+.monex-icon-italic-square-outline:before {
+  content: "\eee2";
+}
+.monex-icon-italic-02-outline:before {
+  content: "\eee3";
+}
+.monex-icon-italic-01-outline:before {
+  content: "\eee4";
+}
+.monex-icon-image-indent-right-outline:before {
+  content: "\eee5";
+}
+.monex-icon-image-indent-left-outline:before {
+  content: "\eee6";
+}
+.monex-icon-heading-square-outline:before {
+  content: "\eee7";
+}
+.monex-icon-heading-02-outline:before {
+  content: "\eee8";
+}
+.monex-icon-heading-01-outline:before {
+  content: "\eee9";
+}
+.monex-icon-hand-outline:before {
+  content: "\eeea";
+}
+.monex-icon-framer-outline:before {
+  content: "\eeeb";
+}
+.monex-icon-drop-outline:before {
+  content: "\eeec";
+}
+.monex-icon-dotpoints-02-outline:before {
+  content: "\eeed";
+}
+.monex-icon-dotpoints-01-outline:before {
+  content: "\eeee";
+}
+.monex-icon-delete-outline:before {
+  content: "\eeef";
+}
+.monex-icon-cursor-click-02-outline:before {
+  content: "\eef0";
+}
+.monex-icon-cursor-click-01-outline:before {
+  content: "\eef1";
+}
+.monex-icon-cursor-box-outline:before {
+  content: "\eef2";
+}
+.monex-icon-cursor-04-outline:before {
+  content: "\eef3";
+}
+.monex-icon-cursor-03-outline:before {
+  content: "\eef4";
+}
+.monex-icon-cursor-02-outline:before {
+  content: "\eef5";
+}
+.monex-icon-cursor-01-outline:before {
+  content: "\eef6";
+}
+.monex-icon-crop-02-outline:before {
+  content: "\eef7";
+}
+.monex-icon-crop-01-outline:before {
+  content: "\eef8";
+}
+.monex-icon-contrast-03-outline:before {
+  content: "\eef9";
+}
+.monex-icon-contrast-02-outline:before {
+  content: "\eefa";
+}
+.monex-icon-contrast-01-outline:before {
+  content: "\eefb";
+}
+.monex-icon-command-outline:before {
+  content: "\eefc";
+}
+.monex-icon-code-snippet-02-outline:before {
+  content: "\eefd";
+}
+.monex-icon-code-snippet-01-outline:before {
+  content: "\eefe";
+}
+.monex-icon-circle-cut-outline:before {
+  content: "\eeff";
+}
+.monex-icon-brush-02-outline:before {
+  content: "\ef00";
+}
+.monex-icon-bold-square-outline:before {
+  content: "\ef01";
+}
+.monex-icon-bold-02-outline:before {
+  content: "\ef02";
+}
+.monex-icon-bold-01-outline:before {
+  content: "\ef03";
+}
+.monex-icon-bezier-curve-03-outline:before {
+  content: "\ef04";
+}
+.monex-icon-bezier-curve-02-outline:before {
+  content: "\ef05";
+}
+.monex-icon-bezier-curve-01-outline:before {
+  content: "\ef06";
+}
+.monex-icon-attachment-02-outline:before {
+  content: "\ef07";
+}
+.monex-icon-attachment-01-outline:before {
+  content: "\ef08";
+}
+.monex-icon-align-right-outline:before {
+  content: "\ef09";
+}
+.monex-icon-align-left-outline:before {
+  content: "\ef0a";
+}
+.monex-icon-align-justify-outline:before {
+  content: "\ef0b";
+}
+.monex-icon-align-center-outline:before {
+  content: "\ef0c";
+}
+.monex-icon-image-x:before {
+  content: "\ef0d";
+}
+.monex-icon-image-user-x:before {
+  content: "\ef0e";
+}
+.monex-icon-image-user-up:before {
+  content: "\ef0f";
+}
+.monex-icon-image-user-right:before {
+  content: "\ef10";
+}
+.monex-icon-image-user-plus:before {
+  content: "\ef11";
+}
+.monex-icon-image-user-left:before {
+  content: "\ef12";
+}
+.monex-icon-image-user-down:before {
+  content: "\ef13";
+}
+.monex-icon-image-user-check:before {
+  content: "\ef14";
+}
+.monex-icon-image-user:before {
+  content: "\ef15";
+}
+.monex-icon-image-up:before {
+  content: "\ef16";
+}
+.monex-icon-image-right:before {
+  content: "\ef17";
+}
+.monex-icon-image-plus:before {
+  content: "\ef18";
+}
+.monex-icon-image-left:before {
+  content: "\ef19";
+}
+.monex-icon-image-down:before {
+  content: "\ef1a";
+}
+.monex-icon-image-check:before {
+  content: "\ef1b";
+}
+.monex-icon-image-05:before {
+  content: "\ef1c";
+}
+.monex-icon-image-04:before {
+  content: "\ef1d";
+}
+.monex-icon-image-03:before {
+  content: "\ef1e";
+}
+.monex-icon-image-02:before {
+  content: "\ef1f";
+}
+.monex-icon-image-01:before {
+  content: "\ef20";
+}
+.monex-icon-flash-off:before {
+  content: "\ef21";
+}
+.monex-icon-flash:before {
+  content: "\ef22";
+}
+.monex-icon-colors:before {
+  content: "\ef23";
+}
+.monex-icon-camera-plus:before {
+  content: "\ef24";
+}
+.monex-icon-camera-off:before {
+  content: "\ef25";
+}
+.monex-icon-camera-03:before {
+  content: "\ef26";
+}
+.monex-icon-camera-02:before {
+  content: "\ef27";
+}
+.monex-icon-camera-01:before {
+  content: "\ef28";
+}
+.monex-icon-image-x-outline:before {
+  content: "\ef29";
+}
+.monex-icon-image-user-x-outline:before {
+  content: "\ef2a";
+}
+.monex-icon-image-user-up-outline:before {
+  content: "\ef2b";
+}
+.monex-icon-image-user-right-outline:before {
+  content: "\ef2c";
+}
+.monex-icon-image-user-plus-outline:before {
+  content: "\ef2d";
+}
+.monex-icon-image-user-left-outline:before {
+  content: "\ef2e";
+}
+.monex-icon-image-user-down-outline:before {
+  content: "\ef2f";
+}
+.monex-icon-image-user-check-outline:before {
+  content: "\ef30";
+}
+.monex-icon-image-user-outline:before {
+  content: "\ef31";
+}
+.monex-icon-image-up-outline:before {
+  content: "\ef32";
+}
+.monex-icon-image-right-outline:before {
+  content: "\ef33";
+}
+.monex-icon-image-plus-outline:before {
+  content: "\ef34";
+}
+.monex-icon-image-left-outline:before {
+  content: "\ef35";
+}
+.monex-icon-image-down-outline:before {
+  content: "\ef36";
+}
+.monex-icon-image-check-outline:before {
+  content: "\ef37";
+}
+.monex-icon-image-05-outline:before {
+  content: "\ef38";
+}
+.monex-icon-image-04-outline:before {
+  content: "\ef39";
+}
+.monex-icon-image-01-outline:before {
+  content: "\ef3a";
+}
+.monex-icon-flash-off-outline:before {
+  content: "\ef3b";
+}
+.monex-icon-flash-outline:before {
+  content: "\ef3c";
+}
+.monex-icon-colors-outline:before {
+  content: "\ef3d";
+}
+.monex-icon-camera-plus-outline:before {
+  content: "\ef3e";
+}
+.monex-icon-camera-off-outline:before {
+  content: "\ef3f";
+}
+.monex-icon-camera-lens-outline:before {
+  content: "\ef40";
+}
+.monex-icon-camera-03-outline:before {
+  content: "\ef41";
+}
+.monex-icon-camera-02-outline:before {
+  content: "\ef42";
+}
+.monex-icon-camera-01-outline:before {
+  content: "\ef43";
+}
+.monex-icon-wallet-05:before {
+  content: "\ef44";
+}
+.monex-icon-wallet-04:before {
+  content: "\ef45";
+}
+.monex-icon-wallet-03:before {
+  content: "\ef46";
+}
+.monex-icon-wallet-02:before {
+  content: "\ef47";
+}
+.monex-icon-wallet-01:before {
+  content: "\ef48";
+}
+.monex-icon-tag-03:before {
+  content: "\ef49";
+}
+.monex-icon-tag-02:before {
+  content: "\ef4a";
+}
+.monex-icon-tag-01:before {
+  content: "\ef4b";
+}
+.monex-icon-shopping-cart-03:before {
+  content: "\ef4c";
+}
+.monex-icon-shopping-cart-02:before {
+  content: "\ef4d";
+}
+.monex-icon-shopping-cart-01:before {
+  content: "\ef4e";
+}
+.monex-icon-shopping-bag-03:before {
+  content: "\ef4f";
+}
+.monex-icon-shopping-bag-02:before {
+  content: "\ef50";
+}
+.monex-icon-shopping-bag-01:before {
+  content: "\ef51";
+}
+.monex-icon-scales-02:before {
+  content: "\ef52";
+}
+.monex-icon-scales-01:before {
+  content: "\ef53";
+}
+.monex-icon-safe:before {
+  content: "\ef54";
+}
+.monex-icon-receipt-check:before {
+  content: "\ef55";
+}
+.monex-icon-receipt:before {
+  content: "\ef56";
+}
+.monex-icon-piggy-bank-02:before {
+  content: "\ef57";
+}
+.monex-icon-piggy-bank-01:before {
+  content: "\ef58";
+}
+.monex-icon-gift-02:before {
+  content: "\ef59";
+}
+.monex-icon-diamond-02:before {
+  content: "\ef5a";
+}
+.monex-icon-diamond-01:before {
+  content: "\ef5b";
+}
+.monex-icon-currency-yen-circle:before {
+  content: "\ef5c";
+}
+.monex-icon-currency-yen:before {
+  content: "\ef5d";
+}
+.monex-icon-currency-rupee:before {
+  content: "\ef5e";
+}
+.monex-icon-currency-rupee-circle:before {
+  content: "\ef5f";
+}
+.monex-icon-currency-ruble-circle:before {
+  content: "\ef60";
+}
+.monex-icon-currency-ruble:before {
+  content: "\ef61";
+}
+.monex-icon-currency-pound-circle:before {
+  content: "\ef62";
+}
+.monex-icon-currency-pound:before {
+  content: "\ef63";
+}
+.monex-icon-currency-euro-circle:before {
+  content: "\ef64";
+}
+.monex-icon-currency-euro:before {
+  content: "\ef65";
+}
+.monex-icon-currency-ethereum-circle:before {
+  content: "\ef66";
+}
+.monex-icon-currency-ethereum:before {
+  content: "\ef67";
+}
+.monex-icon-currency-dollar-circle:before {
+  content: "\ef68";
+}
+.monex-icon-currency-dollar:before {
+  content: "\ef69";
+}
+.monex-icon-currency-bitcoin-circle:before {
+  content: "\ef6a";
+}
+.monex-icon-currency-bitcoin:before {
+  content: "\ef6b";
+}
+.monex-icon-cryptocurrency-04:before {
+  content: "\ef6c";
+}
+.monex-icon-cryptocurrency-03:before {
+  content: "\ef6d";
+}
+.monex-icon-cryptocurrency-02:before {
+  content: "\ef6e";
+}
+.monex-icon-cryptocurrency-01:before {
+  content: "\ef6f";
+}
+.monex-icon-credit-card-x:before {
+  content: "\ef70";
+}
+.monex-icon-credit-card-upload:before {
+  content: "\ef71";
+}
+.monex-icon-credit-card-up:before {
+  content: "\ef72";
+}
+.monex-icon-credit-card-search:before {
+  content: "\ef73";
+}
+.monex-icon-credit-card-plus:before {
+  content: "\ef74";
+}
+.monex-icon-credit-card-minus:before {
+  content: "\ef75";
+}
+.monex-icon-credit-card-lock:before {
+  content: "\ef76";
+}
+.monex-icon-credit-card-edit:before {
+  content: "\ef77";
+}
+.monex-icon-credit-card-download:before {
+  content: "\ef78";
+}
+.monex-icon-credit-card-down:before {
+  content: "\ef79";
+}
+.monex-icon-credit-card-check:before {
+  content: "\ef7a";
+}
+.monex-icon-credit-card-02:before {
+  content: "\ef7b";
+}
+.monex-icon-credit-card-01:before {
+  content: "\ef7c";
+}
+.monex-icon-coins-swap-02:before {
+  content: "\ef7d";
+}
+.monex-icon-coins-swap-01:before {
+  content: "\ef7e";
+}
+.monex-icon-coins-stacked-04:before {
+  content: "\ef7f";
+}
+.monex-icon-coins-stacked-03:before {
+  content: "\ef80";
+}
+.monex-icon-coins-stacked-02:before {
+  content: "\ef81";
+}
+.monex-icon-coins-stacked-01:before {
+  content: "\ef82";
+}
+.monex-icon-coins-hand:before {
+  content: "\ef83";
+}
+.monex-icon-coins-04:before {
+  content: "\ef84";
+}
+.monex-icon-coins-03:before {
+  content: "\ef85";
+}
+.monex-icon-coins-02:before {
+  content: "\ef86";
+}
+.monex-icon-coins-01:before {
+  content: "\ef87";
+}
+.monex-icon-bank-note-03:before {
+  content: "\ef88";
+}
+.monex-icon-bank:before {
+  content: "\ef89";
+}
+.monex-icon-wallet-05-outline:before {
+  content: "\ef8a";
+}
+.monex-icon-wallet-04-outline:before {
+  content: "\ef8b";
+}
+.monex-icon-wallet-03-outline:before {
+  content: "\ef8c";
+}
+.monex-icon-wallet-01-outline:before {
+  content: "\ef8d";
+}
+.monex-icon-tag-03-outline:before {
+  content: "\ef8e";
+}
+.monex-icon-tag-02-outline:before {
+  content: "\ef8f";
+}
+.monex-icon-tag-01-outline:before {
+  content: "\ef90";
+}
+.monex-icon-shopping-cart-03-outline:before {
+  content: "\ef91";
+}
+.monex-icon-shopping-cart-02-outline:before {
+  content: "\ef92";
+}
+.monex-icon-shopping-cart-01-outline:before {
+  content: "\ef93";
+}
+.monex-icon-shopping-bag-03-outline:before {
+  content: "\ef94";
+}
+.monex-icon-shopping-bag-02-outline:before {
+  content: "\ef95";
+}
+.monex-icon-shopping-bag-01-outline:before {
+  content: "\ef96";
+}
+.monex-icon-scales-02-outline:before {
+  content: "\ef97";
+}
+.monex-icon-sale-02-outline:before {
+  content: "\ef98";
+}
+.monex-icon-sale-01-outline:before {
+  content: "\ef99";
+}
+.monex-icon-safe-outline:before {
+  content: "\ef9a";
+}
+.monex-icon-receipt-check-outline:before {
+  content: "\ef9b";
+}
+.monex-icon-receipt-outline:before {
+  content: "\ef9c";
+}
+.monex-icon-piggy-bank-01-outline:before {
+  content: "\ef9d";
+}
+.monex-icon-gift-02-outline:before {
+  content: "\ef9e";
+}
+.monex-icon-gift-01-outline:before {
+  content: "\ef9f";
+}
+.monex-icon-currency-yen-circle-outline:before {
+  content: "\efa0";
+}
+.monex-icon-currency-yen-outline:before {
+  content: "\efa1";
+}
+.monex-icon-currency-rupee-outline:before {
+  content: "\efa2";
+}
+.monex-icon-currency-rupee-circle-outline:before {
+  content: "\efa3";
+}
+.monex-icon-currency-ruble-circle-outline:before {
+  content: "\efa4";
+}
+.monex-icon-currency-ruble-outline:before {
+  content: "\efa5";
+}
+.monex-icon-currency-pound-circle-outline:before {
+  content: "\efa6";
+}
+.monex-icon-currency-pound-outline:before {
+  content: "\efa7";
+}
+.monex-icon-currency-euro-circle-outline:before {
+  content: "\efa8";
+}
+.monex-icon-currency-euro-outline:before {
+  content: "\efa9";
+}
+.monex-icon-currency-ethereum-circle-outline:before {
+  content: "\efaa";
+}
+.monex-icon-currency-dollar-circle-outline:before {
+  content: "\efab";
+}
+.monex-icon-currency-dollar-outline:before {
+  content: "\efac";
+}
+.monex-icon-currency-bitcoin-outline:before {
+  content: "\efad";
+}
+.monex-icon-cryptocurrency-04-outline:before {
+  content: "\efae";
+}
+.monex-icon-cryptocurrency-03-outline:before {
+  content: "\efaf";
+}
+.monex-icon-cryptocurrency-02-outline:before {
+  content: "\efb0";
+}
+.monex-icon-cryptocurrency-01-outline:before {
+  content: "\efb1";
+}
+.monex-icon-credit-card-x-outline:before {
+  content: "\efb2";
+}
+.monex-icon-credit-card-upload-outline:before {
+  content: "\efb3";
+}
+.monex-icon-credit-card-up-outline:before {
+  content: "\efb4";
+}
+.monex-icon-credit-card-shield-outline:before {
+  content: "\efb5";
+}
+.monex-icon-credit-card-search-outline:before {
+  content: "\efb6";
+}
+.monex-icon-credit-card-refresh-outline:before {
+  content: "\efb7";
+}
+.monex-icon-credit-card-plus-outline:before {
+  content: "\efb8";
+}
+.monex-icon-credit-card-minus-outline:before {
+  content: "\efb9";
+}
+.monex-icon-credit-card-lock-outline:before {
+  content: "\efba";
+}
+.monex-icon-credit-card-edit-outline:before {
+  content: "\efbb";
+}
+.monex-icon-credit-card-download-outline:before {
+  content: "\efbc";
+}
+.monex-icon-credit-card-down-outline:before {
+  content: "\efbd";
+}
+.monex-icon-credit-card-check-outline:before {
+  content: "\efbe";
+}
+.monex-icon-credit-card-02-outline:before {
+  content: "\efbf";
+}
+.monex-icon-credit-card-01-outline:before {
+  content: "\efc0";
+}
+.monex-icon-coins-swap-02-outline:before {
+  content: "\efc1";
+}
+.monex-icon-coins-swap-01-outline:before {
+  content: "\efc2";
+}
+.monex-icon-coins-stacked-03-outline:before {
+  content: "\efc3";
+}
+.monex-icon-coins-hand-outline:before {
+  content: "\efc4";
+}
+.monex-icon-coins-04-outline:before {
+  content: "\efc5";
+}
+.monex-icon-coins-03-outline:before {
+  content: "\efc6";
+}
+.monex-icon-coins-02-outline:before {
+  content: "\efc7";
+}
+.monex-icon-coins-01-outline:before {
+  content: "\efc8";
+}
+.monex-icon-bank-note-03-outline:before {
+  content: "\efc9";
+}
+.monex-icon-bank-note-02-outline:before {
+  content: "\efca";
+}
+.monex-icon-bank-note-01-outline:before {
+  content: "\efcb";
+}
+.monex-icon-bank-outline:before {
+  content: "\efcc";
+}
+.monex-icon-bank-outline1:before {
+  content: "\efcd";
+}
+.monex-icon-face-id:before {
+  content: "\efce";
+}
+.monex-icon-shield-02:before {
+  content: "\efcf";
+}
+.monex-icon-shield-01:before {
+  content: "\efd0";
+}
+.monex-icon-shield-zap:before {
+  content: "\efd1";
+}
+.monex-icon-shield-tick:before {
+  content: "\efd2";
+}
+.monex-icon-shield-plus:before {
+  content: "\efd3";
+}
+.monex-icon-shield-off:before {
+  content: "\efd4";
+}
+.monex-icon-shield-dollar:before {
+  content: "\efd5";
+}
+.monex-icon-shield-03:before {
+  content: "\efd6";
+}
+.monex-icon-scan:before {
+  content: "\efd7";
+}
+.monex-icon-passcode-lock:before {
+  content: "\efd8";
+}
+.monex-icon-lock-unlocked-04:before {
+  content: "\efd9";
+}
+.monex-icon-lock-unlocked-03:before {
+  content: "\efda";
+}
+.monex-icon-lock-unlocked-02:before {
+  content: "\efdb";
+}
+.monex-icon-lock-unlocked-01:before {
+  content: "\efdc";
+}
+.monex-icon-lock-keyhole-square:before {
+  content: "\efdd";
+}
+.monex-icon-lock-keyhole-circle:before {
+  content: "\efde";
+}
+.monex-icon-lock-04:before {
+  content: "\efdf";
+}
+.monex-icon-lock-03:before {
+  content: "\efe0";
+}
+.monex-icon-lock-02:before {
+  content: "\efe1";
+}
+.monex-icon-key-02:before {
+  content: "\efe2";
+}
+.monex-icon-key-01:before {
+  content: "\efe3";
+}
+.monex-icon-folder-shield:before {
+  content: "\efe4";
+}
+.monex-icon-fingerprint-04:before {
+  content: "\efe5";
+}
+.monex-icon-fingerprint-03:before {
+  content: "\efe6";
+}
+.monex-icon-fingerprint-02:before {
+  content: "\efe7";
+}
+.monex-icon-fingerprint-01:before {
+  content: "\efe8";
+}
+.monex-icon-file-shield-03:before {
+  content: "\efe9";
+}
+.monex-icon-file-shield-01:before {
+  content: "\efea";
+}
+.monex-icon-file-lock-03:before {
+  content: "\efeb";
+}
+.monex-icon-file-lock-01:before {
+  content: "\efec";
+}
+.monex-icon-face-id-outline:before {
+  content: "\efed";
+}
+.monex-icon-shield-02-outline:before {
+  content: "\efee";
+}
+.monex-icon-shield-01-outline:before {
+  content: "\efef";
+}
+.monex-icon-shield-zap-outline:before {
+  content: "\eff0";
+}
+.monex-icon-shield-tick-outline:before {
+  content: "\eff1";
+}
+.monex-icon-shield-plus-outline:before {
+  content: "\eff2";
+}
+.monex-icon-shield-dollar-outline:before {
+  content: "\eff3";
+}
+.monex-icon-shield-03-outline:before {
+  content: "\eff4";
+}
+.monex-icon-scan-outline:before {
+  content: "\eff5";
+}
+.monex-icon-passcode-lock-outline:before {
+  content: "\eff6";
+}
+.monex-icon-passcode-outline:before {
+  content: "\eff7";
+}
+.monex-icon-lock-unlocked-04-outline:before {
+  content: "\eff8";
+}
+.monex-icon-lock-unlocked-03-outline:before {
+  content: "\eff9";
+}
+.monex-icon-lock-unlocked-02-outline:before {
+  content: "\effa";
+}
+.monex-icon-lock-unlocked-01-outline:before {
+  content: "\effb";
+}
+.monex-icon-lock-keyhole-square-outline:before {
+  content: "\effc";
+}
+.monex-icon-lock-keyhole-circle-outline:before {
+  content: "\effd";
+}
+.monex-icon-lock-03-outline:before {
+  content: "\effe";
+}
+.monex-icon-lock-02-outline:before {
+  content: "\efff";
+}
+.monex-icon-lock-01-outline:before {
+  content: "\f000";
+}
+.monex-icon-key-02-outline:before {
+  content: "\f001";
+}
+.monex-icon-key-01-outline:before {
+  content: "\f002";
+}
+.monex-icon-folder-shield-outline:before {
+  content: "\f003";
+}
+.monex-icon-fingerprint-04-outline:before {
+  content: "\f004";
+}
+.monex-icon-fingerprint-03-outline:before {
+  content: "\f005";
+}
+.monex-icon-fingerprint-02-outline:before {
+  content: "\f006";
+}
+.monex-icon-fingerprint-01-outline:before {
+  content: "\f007";
+}
+.monex-icon-file-shield-02-outline:before {
+  content: "\f008";
+}
+.monex-icon-file-shield-01-outline:before {
+  content: "\f009";
+}
+.monex-icon-file-lock-03-outline:before {
+  content: "\f00a";
+}
+.monex-icon-file-lock-02-outline:before {
+  content: "\f00b";
+}
+.monex-icon-face-id-square-outline:before {
+  content: "\f00c";
+}
+.monex-icon-box:before {
+  content: "\f00d";
+}
+.monex-icon-sticker-circle:before {
+  content: "\f00e";
+}
+.monex-icon-sticker-square:before {
+  content: "\f00f";
+}
+.monex-icon-clipboard-minus:before {
+  content: "\f010";
+}
+.monex-icon-clipboard-check:before {
+  content: "\f011";
+}
+.monex-icon-clipboard-download:before {
+  content: "\f012";
+}
+.monex-icon-clipboard-attachment:before {
+  content: "\f013";
+}
+.monex-icon-clipboard:before {
+  content: "\f014";
+}
+.monex-icon-paperclip:before {
+  content: "\f015";
+}
+.monex-icon-folder-question:before {
+  content: "\f016";
+}
+.monex-icon-folder-minus:before {
+  content: "\f017";
+}
+.monex-icon-folder-check:before {
+  content: "\f018";
+}
+.monex-icon-folder:before {
+  content: "\f019";
+}
+.monex-icon-file-search-03:before {
+  content: "\f01a";
+}
+.monex-icon-file-search-01:before {
+  content: "\f01b";
+}
+.monex-icon-file-x-03:before {
+  content: "\f01c";
+}
+.monex-icon-file-x-01:before {
+  content: "\f01d";
+}
+.monex-icon-file-question-03:before {
+  content: "\f01e";
+}
+.monex-icon-file-plus-03:before {
+  content: "\f01f";
+}
+.monex-icon-file-plus-01:before {
+  content: "\f020";
+}
+.monex-icon-file-minus-03:before {
+  content: "\f021";
+}
+.monex-icon-file-minus-01:before {
+  content: "\f022";
+}
+.monex-icon-file-heart-03:before {
+  content: "\f023";
+}
+.monex-icon-file-download-03:before {
+  content: "\f024";
+}
+.monex-icon-file-download-01:before {
+  content: "\f025";
+}
+.monex-icon-file-check-03:before {
+  content: "\f026";
+}
+.monex-icon-file-check-01:before {
+  content: "\f027";
+}
+.monex-icon-file-attachment-05:before {
+  content: "\f028";
+}
+.monex-icon-file-attachment-03:before {
+  content: "\f029";
+}
+.monex-icon-file-attachment-01:before {
+  content: "\f02a";
+}
+.monex-icon-file-05:before {
+  content: "\f02b";
+}
+.monex-icon-file-04:before {
+  content: "\f02c";
+}
+.monex-icon-file-01:before {
+  content: "\f02d";
+}
+.monex-icon-file-01-outline:before {
+  content: "\f02e";
+}
+.monex-icon-sticker-circle-outline:before {
+  content: "\f02f";
+}
+.monex-icon-sticker-square-outline:before {
+  content: "\f030";
+}
+.monex-icon-clipboard-minus-outline:before {
+  content: "\f031";
+}
+.monex-icon-clipboard-plus-outline:before {
+  content: "\f032";
+}
+.monex-icon-clipboard-x-outline:before {
+  content: "\f033";
+}
+.monex-icon-clipboard-check-outline:before {
+  content: "\f034";
+}
+.monex-icon-clipboard-download-outline:before {
+  content: "\f035";
+}
+.monex-icon-clipboard-attachment-outline:before {
+  content: "\f036";
+}
+.monex-icon-clipboard-outline:before {
+  content: "\f037";
+}
+.monex-icon-paperclip-outline:before {
+  content: "\f038";
+}
+.monex-icon-folder-x-outline:before {
+  content: "\f039";
+}
+.monex-icon-folder-closed-outline:before {
+  content: "\f03a";
+}
+.monex-icon-folder-search-outline:before {
+  content: "\f03b";
+}
+.monex-icon-folder-question-outline:before {
+  content: "\f03c";
+}
+.monex-icon-folder-plus-outline:before {
+  content: "\f03d";
+}
+.monex-icon-folder-minus-outline:before {
+  content: "\f03e";
+}
+.monex-icon-folder-lock-outline:before {
+  content: "\f03f";
+}
+.monex-icon-folder-download-outline:before {
+  content: "\f040";
+}
+.monex-icon-folder-check-outline:before {
+  content: "\f041";
+}
+.monex-icon-folder-outline:before {
+  content: "\f042";
+}
+.monex-icon-file-search-02-outline:before {
+  content: "\f043";
+}
+.monex-icon-file-search-01-outline:before {
+  content: "\f044";
+}
+.monex-icon-file-x-02-outline:before {
+  content: "\f045";
+}
+.monex-icon-file-x-01-outline:before {
+  content: "\f046";
+}
+.monex-icon-file-plus-02-outline:before {
+  content: "\f047";
+}
+.monex-icon-file-plus-01-outline:before {
+  content: "\f048";
+}
+.monex-icon-file-minus-02-outline:before {
+  content: "\f049";
+}
+.monex-icon-file-minus-01-outline:before {
+  content: "\f04a";
+}
+.monex-icon-file-heart-02-outline:before {
+  content: "\f04b";
+}
+.monex-icon-file-heart-01-outline:before {
+  content: "\f04c";
+}
+.monex-icon-file-download-02-outline:before {
+  content: "\f04d";
+}
+.monex-icon-file-download-01-outline:before {
+  content: "\f04e";
+}
+.monex-icon-file-check-02-outline:before {
+  content: "\f04f";
+}
+.monex-icon-file-check-01-outline:before {
+  content: "\f050";
+}
+.monex-icon-file-attachment-05-outline:before {
+  content: "\f051";
+}
+.monex-icon-file-attachment-04-outline:before {
+  content: "\f052";
+}
+.monex-icon-file-attachment-03-outline:before {
+  content: "\f053";
+}
+.monex-icon-file-attachment-02-outline:before {
+  content: "\f054";
+}
+.monex-icon-file-attachment-01-outline:before {
+  content: "\f055";
+}
+.monex-icon-file-03-outline:before {
+  content: "\f056";
+}
+.monex-icon-file-02-outline:before {
+  content: "\f057";
+}
+.monex-icon-brackets:before {
+  content: "\f058";
+}
+.monex-icon-variable:before {
+  content: "\f059";
+}
+.monex-icon-terminal-square:before {
+  content: "\f05a";
+}
+.monex-icon-terminal-circle:before {
+  content: "\f05b";
+}
+.monex-icon-terminal-browser:before {
+  content: "\f05c";
+}
+.monex-icon-terminal:before {
+  content: "\f05d";
+}
+.monex-icon-server-04:before {
+  content: "\f05e";
+}
+.monex-icon-server-03:before {
+  content: "\f05f";
+}
+.monex-icon-server-02:before {
+  content: "\f060";
+}
+.monex-icon-server-01:before {
+  content: "\f061";
+}
+.monex-icon-qr-code-02:before {
+  content: "\f062";
+}
+.monex-icon-qr-code-01:before {
+  content: "\f063";
+}
+.monex-icon-puzzle-piece-02:before {
+  content: "\f064";
+}
+.monex-icon-puzzle-piece-01:before {
+  content: "\f065";
+}
+.monex-icon-package-x:before {
+  content: "\f066";
+}
+.monex-icon-package-search:before {
+  content: "\f067";
+}
+.monex-icon-package-plus:before {
+  content: "\f068";
+}
+.monex-icon-package-check:before {
+  content: "\f069";
+}
+.monex-icon-package-minus:before {
+  content: "\f06a";
+}
+.monex-icon-package:before {
+  content: "\f06b";
+}
+.monex-icon-git-pull-request:before {
+  content: "\f06c";
+}
+.monex-icon-git-merge:before {
+  content: "\f06d";
+}
+.monex-icon-git-commit:before {
+  content: "\f06e";
+}
+.monex-icon-git-branch-02:before {
+  content: "\f06f";
+}
+.monex-icon-git-branch-01:before {
+  content: "\f070";
+}
+.monex-icon-folder-code:before {
+  content: "\f071";
+}
+.monex-icon-file-code-02:before {
+  content: "\f072";
+}
+.monex-icon-file-code-01:before {
+  content: "\f073";
+}
+.monex-icon-dataflow-04:before {
+  content: "\f074";
+}
+.monex-icon-dataflow-03:before {
+  content: "\f075";
+}
+.monex-icon-dataflow-02:before {
+  content: "\f076";
+}
+.monex-icon-dataflow-01:before {
+  content: "\f077";
+}
+.monex-icon-database-03:before {
+  content: "\f078";
+}
+.monex-icon-database-02:before {
+  content: "\f079";
+}
+.monex-icon-database-01:before {
+  content: "\f07a";
+}
+.monex-icon-data:before {
+  content: "\f07b";
+}
+.monex-icon-cpu-chip-02:before {
+  content: "\f07c";
+}
+.monex-icon-cpu-chip-01:before {
+  content: "\f07d";
+}
+.monex-icon-container:before {
+  content: "\f07e";
+}
+.monex-icon-codepen:before {
+  content: "\f07f";
+}
+.monex-icon-code-square-02:before {
+  content: "\f080";
+}
+.monex-icon-code-square-01:before {
+  content: "\f081";
+}
+.monex-icon-code-circle-03:before {
+  content: "\f082";
+}
+.monex-icon-code-circle-02:before {
+  content: "\f083";
+}
+.monex-icon-code-circle-01:before {
+  content: "\f084";
+}
+.monex-icon-code-02:before {
+  content: "\f085";
+}
+.monex-icon-code-01:before {
+  content: "\f086";
+}
+.monex-icon-browser:before {
+  content: "\f087";
+}
+.monex-icon-brackets-x:before {
+  content: "\f088";
+}
+.monex-icon-brackets-slash:before {
+  content: "\f089";
+}
+.monex-icon-brackets-plus:before {
+  content: "\f08a";
+}
+.monex-icon-brackets-minus:before {
+  content: "\f08b";
+}
+.monex-icon-brackets-ellipses:before {
+  content: "\f08c";
+}
+.monex-icon-brackets-check:before {
+  content: "\f08d";
+}
+.monex-icon-brackets-outline:before {
+  content: "\f08e";
+}
+.monex-icon-variable-outline:before {
+  content: "\f08f";
+}
+.monex-icon-terminal-square-outline:before {
+  content: "\f090";
+}
+.monex-icon-terminal-circle-outline:before {
+  content: "\f091";
+}
+.monex-icon-terminal-browser-outline:before {
+  content: "\f092";
+}
+.monex-icon-terminal-outline:before {
+  content: "\f093";
+}
+.monex-icon-server-04-outline:before {
+  content: "\f094";
+}
+.monex-icon-server-03-outline:before {
+  content: "\f095";
+}
+.monex-icon-server-02-outline:before {
+  content: "\f096";
+}
+.monex-icon-server-01-outline:before {
+  content: "\f097";
+}
+.monex-icon-qr-code-02-outline:before {
+  content: "\f098";
+}
+.monex-icon-qr-code-01-outline:before {
+  content: "\f099";
+}
+.monex-icon-puzzle-piece-02-outline:before {
+  content: "\f09a";
+}
+.monex-icon-puzzle-piece-01-outline:before {
+  content: "\f09b";
+}
+.monex-icon-git-pull-request-outline:before {
+  content: "\f09c";
+}
+.monex-icon-git-merge-outline:before {
+  content: "\f09d";
+}
+.monex-icon-git-commit-outline:before {
+  content: "\f09e";
+}
+.monex-icon-git-branch-02-outline:before {
+  content: "\f09f";
+}
+.monex-icon-git-branch-01-outline:before {
+  content: "\f0a0";
+}
+.monex-icon-folder-code-outline:before {
+  content: "\f0a1";
+}
+.monex-icon-file-code-02-outline:before {
+  content: "\f0a2";
+}
+.monex-icon-dataflow-04-outline:before {
+  content: "\f0a3";
+}
+.monex-icon-dataflow-03-outline:before {
+  content: "\f0a4";
+}
+.monex-icon-dataflow-02-outline:before {
+  content: "\f0a5";
+}
+.monex-icon-dataflow-01-outline:before {
+  content: "\f0a6";
+}
+.monex-icon-database-03-outline:before {
+  content: "\f0a7";
+}
+.monex-icon-database-01-outline:before {
+  content: "\f0a8";
+}
+.monex-icon-data-outline:before {
+  content: "\f0a9";
+}
+.monex-icon-cpu-chip-02-outline:before {
+  content: "\f0aa";
+}
+.monex-icon-cpu-chip-01-outline:before {
+  content: "\f0ab";
+}
+.monex-icon-code-square-02-outline:before {
+  content: "\f0ac";
+}
+.monex-icon-code-square-01-outline:before {
+  content: "\f0ad";
+}
+.monex-icon-code-circle-03-outline:before {
+  content: "\f0ae";
+}
+.monex-icon-code-circle-02-outline:before {
+  content: "\f0af";
+}
+.monex-icon-code-circle-01-outline:before {
+  content: "\f0b0";
+}
+.monex-icon-code-browser-outline:before {
+  content: "\f0b1";
+}
+.monex-icon-code-02-outline:before {
+  content: "\f0b2";
+}
+.monex-icon-code-01-outline:before {
+  content: "\f0b3";
+}
+.monex-icon-browser-outline:before {
+  content: "\f0b4";
+}
+.monex-icon-brackets-x-outline:before {
+  content: "\f0b5";
+}
+.monex-icon-brackets-slash-outline:before {
+  content: "\f0b6";
+}
+.monex-icon-brackets-plus-outline:before {
+  content: "\f0b7";
+}
+.monex-icon-brackets-minus-outline:before {
+  content: "\f0b8";
+}
+.monex-icon-brackets-ellipses-outline:before {
+  content: "\f0b9";
+}
+.monex-icon-brackets-check-outline:before {
+  content: "\f0ba";
+}
+.monex-icon-play:before {
+  content: "\f0bb";
+}
+.monex-icon-youtube:before {
+  content: "\f0bc";
+}
+.monex-icon-wifi-off:before {
+  content: "\f0bd";
+}
+.monex-icon-wifi:before {
+  content: "\f0be";
+}
+.monex-icon-webcam-02:before {
+  content: "\f0bf";
+}
+.monex-icon-webcam-01:before {
+  content: "\f0c0";
+}
+.monex-icon-volume-x:before {
+  content: "\f0c1";
+}
+.monex-icon-volume-plus:before {
+  content: "\f0c2";
+}
+.monex-icon-volume-minus:before {
+  content: "\f0c3";
+}
+.monex-icon-volume-min:before {
+  content: "\f0c4";
+}
+.monex-icon-volume-max:before {
+  content: "\f0c5";
+}
+.monex-icon-voicemail:before {
+  content: "\f0c6";
+}
+.monex-icon-video-recorder-off:before {
+  content: "\f0c7";
+}
+.monex-icon-video-recorder:before {
+  content: "\f0c8";
+}
+.monex-icon-usb-flash-drive:before {
+  content: "\f0c9";
+}
+.monex-icon-tv-03:before {
+  content: "\f0ca";
+}
+.monex-icon-tv-02:before {
+  content: "\f0cb";
+}
+.monex-icon-tv-01:before {
+  content: "\f0cc";
+}
+.monex-icon-tablet-02:before {
+  content: "\f0cd";
+}
+.monex-icon-tablet-01:before {
+  content: "\f0ce";
+}
+.monex-icon-stop-square:before {
+  content: "\f0cf";
+}
+.monex-icon-stop-circle:before {
+  content: "\f0d0";
+}
+.monex-icon-stop:before {
+  content: "\f0d1";
+}
+.monex-icon-speaker-03:before {
+  content: "\f0d2";
+}
+.monex-icon-sliders-04:before {
+  content: "\f0d3";
+}
+.monex-icon-sliders-03:before {
+  content: "\f0d4";
+}
+.monex-icon-sliders-02:before {
+  content: "\f0d5";
+}
+.monex-icon-sliders-01:before {
+  content: "\f0d6";
+}
+.monex-icon-skip-forward:before {
+  content: "\f0d7";
+}
+.monex-icon-skip-back:before {
+  content: "\f0d8";
+}
+.monex-icon-simcard:before {
+  content: "\f0d9";
+}
+.monex-icon-signal-03:before {
+  content: "\f0da";
+}
+.monex-icon-signal-02:before {
+  content: "\f0db";
+}
+.monex-icon-signal-01:before {
+  content: "\f0dc";
+}
+.monex-icon-shuffle-02:before {
+  content: "\f0dd";
+}
+.monex-icon-shuffle-01:before {
+  content: "\f0de";
+}
+.monex-icon-rss-02:before {
+  content: "\f0df";
+}
+.monex-icon-rss-01:before {
+  content: "\f0e0";
+}
+.monex-icon-repeat-04:before {
+  content: "\f0e1";
+}
+.monex-icon-repeat-03:before {
+  content: "\f0e2";
+}
+.monex-icon-repeat-02:before {
+  content: "\f0e3";
+}
+.monex-icon-repeat-01:before {
+  content: "\f0e4";
+}
+.monex-icon-recording-03:before {
+  content: "\f0e5";
+}
+.monex-icon-recording-02:before {
+  content: "\f0e6";
+}
+.monex-icon-recording-01:before {
+  content: "\f0e7";
+}
+.monex-icon-printer:before {
+  content: "\f0e8";
+}
+.monex-icon-power-03:before {
+  content: "\f0e9";
+}
+.monex-icon-power-02:before {
+  content: "\f0ea";
+}
+.monex-icon-power-01:before {
+  content: "\f0eb";
+}
+.monex-icon-podcast:before {
+  content: "\f0ec";
+}
+.monex-icon-play-square:before {
+  content: "\f0ed";
+}
+.monex-icon-play-circle:before {
+  content: "\f0ee";
+}
+.monex-icon-phone-02:before {
+  content: "\f0ef";
+}
+.monex-icon-phone-01:before {
+  content: "\f0f0";
+}
+.monex-icon-pause-square:before {
+  content: "\f0f1";
+}
+.monex-icon-pause-circle:before {
+  content: "\f0f2";
+}
+.monex-icon-music-note-plus:before {
+  content: "\f0f3";
+}
+.monex-icon-music-note-02:before {
+  content: "\f0f4";
+}
+.monex-icon-music-note-01:before {
+  content: "\f0f5";
+}
+.monex-icon-mouse:before {
+  content: "\f0f6";
+}
+.monex-icon-monitor-05:before {
+  content: "\f0f7";
+}
+.monex-icon-monitor-04:before {
+  content: "\f0f8";
+}
+.monex-icon-monitor-03:before {
+  content: "\f0f9";
+}
+.monex-icon-monitor-02:before {
+  content: "\f0fa";
+}
+.monex-icon-monitor-01:before {
+  content: "\f0fb";
+}
+.monex-icon-modem-02:before {
+  content: "\f0fc";
+}
+.monex-icon-modem-01:before {
+  content: "\f0fd";
+}
+.monex-icon-microphone-off-02:before {
+  content: "\f0fe";
+}
+.monex-icon-microphone-off-01:before {
+  content: "\f0ff";
+}
+.monex-icon-microphone-02:before {
+  content: "\f100";
+}
+.monex-icon-microphone-01:before {
+  content: "\f101";
+}
+.monex-icon-lightbulb-05:before {
+  content: "\f102";
+}
+.monex-icon-lightbulb-04:before {
+  content: "\f103";
+}
+.monex-icon-lightbulb-03:before {
+  content: "\f104";
+}
+.monex-icon-lightbulb-02:before {
+  content: "\f105";
+}
+.monex-icon-lightbulb-01:before {
+  content: "\f106";
+}
+.monex-icon-laptop-02:before {
+  content: "\f107";
+}
+.monex-icon-laptop-01:before {
+  content: "\f108";
+}
+.monex-icon-headphones-02:before {
+  content: "\f109";
+}
+.monex-icon-headphones-01:before {
+  content: "\f10a";
+}
+.monex-icon-hard-drive:before {
+  content: "\f10b";
+}
+.monex-icon-fast-forward:before {
+  content: "\f10c";
+}
+.monex-icon-fast-backward:before {
+  content: "\f10d";
+}
+.monex-icon-disc-02:before {
+  content: "\f10e";
+}
+.monex-icon-disc-01:before {
+  content: "\f10f";
+}
+.monex-icon-clapperboard:before {
+  content: "\f110";
+}
+.monex-icon-bluetooth-signal:before {
+  content: "\f111";
+}
+.monex-icon-bluetooth-on:before {
+  content: "\f112";
+}
+.monex-icon-bluetooth-off:before {
+  content: "\f113";
+}
+.monex-icon-bluetooth-connect:before {
+  content: "\f114";
+}
+.monex-icon-battery-mid:before {
+  content: "\f115";
+}
+.monex-icon-battery-low:before {
+  content: "\f116";
+}
+.monex-icon-battery-empty:before {
+  content: "\f117";
+}
+.monex-icon-battery-charging-02:before {
+  content: "\f118";
+}
+.monex-icon-battery-charging-01:before {
+  content: "\f119";
+}
+.monex-icon-airpods:before {
+  content: "\f11a";
+}
+.monex-icon-sliders-03-outline:before {
+  content: "\f11b";
+}
+.monex-icon-youtube-outline:before {
+  content: "\f11c";
+}
+.monex-icon-wifi-off-outline:before {
+  content: "\f11d";
+}
+.monex-icon-wifi-outline:before {
+  content: "\f11e";
+}
+.monex-icon-webcam-02-outline:before {
+  content: "\f11f";
+}
+.monex-icon-webcam-01-outline:before {
+  content: "\f120";
+}
+.monex-icon-volume-x-outline:before {
+  content: "\f121";
+}
+.monex-icon-volume-plus-outline:before {
+  content: "\f122";
+}
+.monex-icon-volume-minus-outline:before {
+  content: "\f123";
+}
+.monex-icon-volume-min-outline:before {
+  content: "\f124";
+}
+.monex-icon-volume-max-outline:before {
+  content: "\f125";
+}
+.monex-icon-voicemail-outline:before {
+  content: "\f126";
+}
+.monex-icon-video-recorder-off-outline:before {
+  content: "\f127";
+}
+.monex-icon-video-recorder-outline:before {
+  content: "\f128";
+}
+.monex-icon-usb-flash-drive-outline:before {
+  content: "\f129";
+}
+.monex-icon-tv-03-outline:before {
+  content: "\f12a";
+}
+.monex-icon-tv-02-outline:before {
+  content: "\f12b";
+}
+.monex-icon-tv-01-outline:before {
+  content: "\f12c";
+}
+.monex-icon-tablet-01-outline:before {
+  content: "\f12d";
+}
+.monex-icon-stop-square-outline:before {
+  content: "\f12e";
+}
+.monex-icon-stop-circle-outline:before {
+  content: "\f12f";
+}
+.monex-icon-stop-outline:before {
+  content: "\f130";
+}
+.monex-icon-speaker-03-outline:before {
+  content: "\f131";
+}
+.monex-icon-speaker-02-outline:before {
+  content: "\f132";
+}
+.monex-icon-speaker-01-outline:before {
+  content: "\f133";
+}
+.monex-icon-sliders-04-outline:before {
+  content: "\f134";
+}
+.monex-icon-rss-01-outline:before {
+  content: "\f135";
+}
+.monex-icon-sliders-01-outline:before {
+  content: "\f136";
+}
+.monex-icon-skip-forward-outline:before {
+  content: "\f137";
+}
+.monex-icon-skip-back-outline:before {
+  content: "\f138";
+}
+.monex-icon-simcard-outline:before {
+  content: "\f139";
+}
+.monex-icon-signal-03-outline:before {
+  content: "\f13a";
+}
+.monex-icon-signal-02-outline:before {
+  content: "\f13b";
+}
+.monex-icon-signal-01-outline:before {
+  content: "\f13c";
+}
+.monex-icon-shuffle-02-outline:before {
+  content: "\f13d";
+}
+.monex-icon-shuffle-01-outline:before {
+  content: "\f13e";
+}
+.monex-icon-rss-02-outline:before {
+  content: "\f13f";
+}
+.monex-icon-sliders-02-outline:before {
+  content: "\f140";
+}
+.monex-icon-play-outline:before {
+  content: "\f141";
+}
+.monex-icon-repeat-04-outline:before {
+  content: "\f142";
+}
+.monex-icon-repeat-03-outline:before {
+  content: "\f143";
+}
+.monex-icon-repeat-02-outline:before {
+  content: "\f144";
+}
+.monex-icon-repeat-01-outline:before {
+  content: "\f145";
+}
+.monex-icon-recording-03-outline:before {
+  content: "\f146";
+}
+.monex-icon-recording-02-outline:before {
+  content: "\f147";
+}
+.monex-icon-recording-01-outline:before {
+  content: "\f148";
+}
+.monex-icon-printer-outline:before {
+  content: "\f149";
+}
+.monex-icon-power-03-outline:before {
+  content: "\f14a";
+}
+.monex-icon-power-02-outline:before {
+  content: "\f14b";
+}
+.monex-icon-power-01-outline:before {
+  content: "\f14c";
+}
+.monex-icon-podcast-outline:before {
+  content: "\f14d";
+}
+.monex-icon-play-square-outline:before {
+  content: "\f14e";
+}
+.monex-icon-play-circle-outline:before {
+  content: "\f14f";
+}
+.monex-icon-phone-01-outline:before {
+  content: "\f150";
+}
+.monex-icon-pause-square-outline:before {
+  content: "\f151";
+}
+.monex-icon-pause-circle-outline:before {
+  content: "\f152";
+}
+.monex-icon-music-note-plus-outline:before {
+  content: "\f153";
+}
+.monex-icon-music-note-02-outline:before {
+  content: "\f154";
+}
+.monex-icon-music-note-01-outline:before {
+  content: "\f155";
+}
+.monex-icon-mouse-outline:before {
+  content: "\f156";
+}
+.monex-icon-monitor-05-outline:before {
+  content: "\f157";
+}
+.monex-icon-lightbulb-05-outline:before {
+  content: "\f158";
+}
+.monex-icon-monitor-03-outline:before {
+  content: "\f159";
+}
+.monex-icon-monitor-02-outline:before {
+  content: "\f15a";
+}
+.monex-icon-monitor-01-outline:before {
+  content: "\f15b";
+}
+.monex-icon-modem-02-outline:before {
+  content: "\f15c";
+}
+.monex-icon-modem-01-outline:before {
+  content: "\f15d";
+}
+.monex-icon-microphone-off-02-outline:before {
+  content: "\f15e";
+}
+.monex-icon-microphone-off-01-outline:before {
+  content: "\f15f";
+}
+.monex-icon-microphone-02-outline:before {
+  content: "\f160";
+}
+.monex-icon-microphone-01-outline:before {
+  content: "\f161";
+}
+.monex-icon-headphones-02-outline:before {
+  content: "\f162";
+}
+.monex-icon-lightbulb-04-outline:before {
+  content: "\f163";
+}
+.monex-icon-lightbulb-03-outline:before {
+  content: "\f164";
+}
+.monex-icon-lightbulb-02-outline:before {
+  content: "\f165";
+}
+.monex-icon-lightbulb-01-outline:before {
+  content: "\f166";
+}
+.monex-icon-laptop-02-outline:before {
+  content: "\f167";
+}
+.monex-icon-laptop-01-outline:before {
+  content: "\f168";
+}
+.monex-icon-keyboard-02-outline:before {
+  content: "\f169";
+}
+.monex-icon-keyboard-01-outline:before {
+  content: "\f16a";
+}
+.monex-icon-fast-forward-outline:before {
+  content: "\f16b";
+}
+.monex-icon-headphones-01-outline:before {
+  content: "\f16c";
+}
+.monex-icon-hard-drive-outline:before {
+  content: "\f16d";
+}
+.monex-icon-gaming-pad-02-outline:before {
+  content: "\f16e";
+}
+.monex-icon-gaming-pad-01-outline:before {
+  content: "\f16f";
+}
+.monex-icon-bluetooth-signal-outline:before {
+  content: "\f170";
+}
+.monex-icon-disc-02-outline:before {
+  content: "\f171";
+}
+.monex-icon-disc-01-outline:before {
+  content: "\f172";
+}
+.monex-icon-clapperboard-outline:before {
+  content: "\f173";
+}
+.monex-icon-chrome-cast-outline:before {
+  content: "\f174";
+}
+.monex-icon-fast-backward-outline:before {
+  content: "\f175";
+}
+.monex-icon-battery-low-outline:before {
+  content: "\f176";
+}
+.monex-icon-bluetooth-on-outline:before {
+  content: "\f177";
+}
+.monex-icon-bluetooth-off-outline:before {
+  content: "\f178";
+}
+.monex-icon-bluetooth-connect-outline:before {
+  content: "\f179";
+}
+.monex-icon-battery-mid-outline:before {
+  content: "\f17a";
+}
+.monex-icon-airplay-outline:before {
+  content: "\f17b";
+}
+.monex-icon-battery-full-outline:before {
+  content: "\f17c";
+}
+.monex-icon-battery-empty-outline:before {
+  content: "\f17d";
+}
+.monex-icon-battery-charging-02-outline:before {
+  content: "\f17e";
+}
+.monex-icon-battery-charging-01-outline:before {
+  content: "\f17f";
+}
+.monex-icon-airpods-outline:before {
+  content: "\f180";
+}
 .monex-icon-notification-box:before {
   content: "\ec4d";
 }
@@ -718,3541 +3919,3541 @@
 }
 .monex-icon-send-03-outline:before {
   content: "\ec03";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-send-02-outline:before {
   content: "\ec04";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-send-01-outline:before {
   content: "\ec05";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-x-outline:before {
   content: "\ec06";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-plus-outline:before {
   content: "\ec07";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-pause-outline:before {
   content: "\ec08";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-outgoing-02-outline:before {
   content: "\ec09";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-outgoing-01-outline:before {
   content: "\ec0a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-incoming-02-outline:before {
   content: "\ec0b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-incoming-01-outline:before {
   content: "\ec0c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-hang-up-outline:before {
   content: "\ec0d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-call-02-outline:before {
   content: "\ec0e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-call-01-outline:before {
   content: "\ec0f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-outline:before {
   content: "\ec10";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-x-square-outline:before {
   content: "\ec11";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-x-circle-outline:before {
   content: "\ec12";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-square-02-outline:before {
   content: "\ec13";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-square-01-outline:before {
   content: "\ec14";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-circle-02-outline:before {
   content: "\ec15";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-circle-01-outline:before {
   content: "\ec16";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-square-02-outline:before {
   content: "\ec17";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-square-01-outline:before {
   content: "\ec18";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-smile-square-outline:before {
   content: "\ec19";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-smile-circle-outline:before {
   content: "\ec1a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-question-square-outline:before {
   content: "\ec1b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-question-circle-outline:before {
   content: "\ec1c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-plus-square-outline:before {
   content: "\ec1d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-plus-circle-outline:before {
   content: "\ec1e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-notification-square-outline:before {
   content: "\ec1f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-notification-circle-outline:before {
   content: "\ec20";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-heart-square-outline:before {
   content: "\ec21";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-heart-circle-outline:before {
   content: "\ec22";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-dots-square-outline:before {
   content: "\ec23";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-dots-circle-outline:before {
   content: "\ec24";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-circle-02-outline:before {
   content: "\ec25";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-circle-01-outline:before {
   content: "\ec26";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-check-square-outline:before {
   content: "\ec27";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-check-circle-outline:before {
   content: "\ec28";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-chat-square-outline:before {
   content: "\ec29";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-chat-circle-outline:before {
   content: "\ec2a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-alert-square-outline:before {
   content: "\ec2b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-alert-circle-outline:before {
   content: "\ec2c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-05-outline:before {
   content: "\ec2d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-04-outline:before {
   content: "\ec2e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-03-outline:before {
   content: "\ec2f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-02-outline:before {
   content: "\ec30";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-01-outline:before {
   content: "\ec31";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-inbox-02-outline:before {
   content: "\ec32";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-inbox-01-outline:before {
   content: "\ec33";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-x-outline:before {
   content: "\ec34";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-question-outline:before {
   content: "\ec35";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-plus-outline:before {
   content: "\ec36";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-info-outline:before {
   content: "\ec37";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-heart-outline:before {
   content: "\ec38";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-dots-outline:before {
   content: "\ec39";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-check-outline:before {
   content: "\ec3a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-alert-outline:before {
   content: "\ec3b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-outline:before {
   content: "\ec3c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-send-03:before {
   content: "\ec3d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-send-02:before {
   content: "\ec3e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-send-01:before {
   content: "\ec3f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-x:before {
   content: "\ec40";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-plus:before {
   content: "\ec41";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-pause:before {
   content: "\ec42";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-outgoing-02:before {
   content: "\ec43";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-outgoing-01:before {
   content: "\ec44";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-incoming-02:before {
   content: "\ec45";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-incoming-01:before {
   content: "\ec46";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-hang-up:before {
   content: "\ec47";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-call-02:before {
   content: "\ec48";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone-call-01:before {
   content: "\ec49";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-phone:before {
   content: "\ec4a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-x-square:before {
   content: "\ec4b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-x-circle:before {
   content: "\ec4c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-square-01:before {
   content: "\ec4e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-circle-02:before {
   content: "\ec4f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-text-circle-01:before {
   content: "\ec50";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-square-02:before {
   content: "\ec51";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-square-01:before {
   content: "\ec52";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-smile-square:before {
   content: "\ec53";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-smile-circle:before {
   content: "\ec54";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-question-square:before {
   content: "\ec55";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-question-circle:before {
   content: "\ec56";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-plus-square:before {
   content: "\ec57";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-plus-circle:before {
   content: "\ec58";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-notification-square:before {
   content: "\ec59";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-notification-circle:before {
   content: "\ec5a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-heart-square:before {
   content: "\ec5b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-heart-circle:before {
   content: "\ec5c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-circle-02:before {
   content: "\ec5f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-circle-01:before {
   content: "\ec60";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-check-square:before {
   content: "\ec61";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-check-circle:before {
   content: "\ec62";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-chat-square:before {
   content: "\ec63";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-chat-circle:before {
   content: "\ec64";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-alert-square:before {
   content: "\ec65";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-message-alert-circle:before {
   content: "\ec66";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-05:before {
   content: "\ec67";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-04:before {
   content: "\ec68";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-03:before {
   content: "\ec69";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-02:before {
   content: "\ec6a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-mail-01:before {
   content: "\ec6b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-inbox-02:before {
   content: "\ec6c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-inbox-01:before {
   content: "\ec6d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-x:before {
   content: "\ec6e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-question:before {
   content: "\ec6f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-plus:before {
   content: "\ec70";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-info:before {
   content: "\ec71";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-heart:before {
   content: "\ec72";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-check:before {
   content: "\ec74";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation-alert:before {
   content: "\ec75";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-annotation:before {
   content: "\ec76";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-x:before {
   content: "\ebb1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-up:before {
   content: "\ebb2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-right:before {
   content: "\ebb3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-plus:before {
   content: "\ebb4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-minus:before {
   content: "\ebb5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-left:before {
   content: "\ebb6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-edit:before {
   content: "\ebb7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-down:before {
   content: "\ebb8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-check:before {
   content: "\ebb9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-01:before {
   content: "\ebba";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-x-02:before {
   content: "\ebbb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-x-01:before {
   content: "\ebbc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-up-02:before {
   content: "\ebbd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-up-01:before {
   content: "\ebbe";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-square:before {
   content: "\ebbf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-right-02:before {
   content: "\ebc0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-right-01:before {
   content: "\ebc1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-plus-02:before {
   content: "\ebc2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-plus-01:before {
   content: "\ebc3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-minus-02:before {
   content: "\ebc4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-minus-01:before {
   content: "\ebc5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-left-02:before {
   content: "\ebc6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-left-01:before {
   content: "\ebc7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-edit:before {
   content: "\ebc8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-down-02:before {
   content: "\ebc9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-down-01:before {
   content: "\ebca";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-circle:before {
   content: "\ebcb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-check-02:before {
   content: "\ebcc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-check-01:before {
   content: "\ebcd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-02:before {
   content: "\ebce";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-03:before {
   content: "\ebcf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-03:before {
   content: "\ebd0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-02:before {
   content: "\ebd1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-01:before {
   content: "\ebd2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-wink:before {
   content: "\ebd3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-smile:before {
   content: "\ebd4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-sad:before {
   content: "\ebd5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-neutral:before {
   content: "\ebd6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-happy:before {
   content: "\ebd7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-frown:before {
   content: "\ebd8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-content:before {
   content: "\ebd9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-x-outline:before {
   content: "\ebda";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-up-outline:before {
   content: "\ebdb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-right-outline:before {
   content: "\ebdc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-plus-outline:before {
   content: "\ebdd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-minus-outline:before {
   content: "\ebde";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-left-outline:before {
   content: "\ebdf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-edit-outline:before {
   content: "\ebe0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-down-outline:before {
   content: "\ebe1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-check-outline:before {
   content: "\ebe2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-01-outline:before {
   content: "\ebe3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-x-02-outline:before {
   content: "\ebe4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-x-01-outline:before {
   content: "\ebe5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-up-02-outline:before {
   content: "\ebe6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-up-01-outline:before {
   content: "\ebe7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-square-outline:before {
   content: "\ebe8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-right-02-outline:before {
   content: "\ebe9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-right-01-outline:before {
   content: "\ebea";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-plus-02-outline:before {
   content: "\ebeb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-plus-01-outline:before {
   content: "\ebec";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-minus-02-outline:before {
   content: "\ebed";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-minus-01-outline:before {
   content: "\ebee";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-left-02-outline:before {
   content: "\ebef";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-left-01-outline:before {
   content: "\ebf0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-edit-outline:before {
   content: "\ebf1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-down-02-outline:before {
   content: "\ebf2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-down-01-outline:before {
   content: "\ebf3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-circle-outline:before {
   content: "\ebf4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-check-02-outline:before {
   content: "\ebf5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-check-01-outline:before {
   content: "\ebf6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-02-outline:before {
   content: "\ebf7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-03-outline:before {
   content: "\ebf8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-users-03-outline:before {
   content: "\ebf9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-02-outline:before {
   content: "\ebfa";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-user-01-outline:before {
   content: "\ebfb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-wink-outline:before {
   content: "\ebfc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-smile-outline:before {
   content: "\ebfd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-sad-outline:before {
   content: "\ebfe";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-neutral-outline:before {
   content: "\ebff";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-happy-outline:before {
   content: "\ec00";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-frown-outline:before {
   content: "\ec01";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-face-content-outline:before {
   content: "\ec02";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-up-02:before {
   content: "\eabf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-up-01:before {
   content: "\eac7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-down-02:before {
   content: "\eb51";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-down-01:before {
   content: "\eb52";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-presentation-chart-03:before {
   content: "\eb53";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-presentation-chart-02:before {
   content: "\eb54";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-presentation-chart-01:before {
   content: "\eb55";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-04:before {
   content: "\eb56";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-03:before {
   content: "\eb57";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-02:before {
   content: "\eb58";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-01:before {
   content: "\eb59";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-05:before {
   content: "\eb5a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-04:before {
   content: "\eb5b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-03:before {
   content: "\eb5c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-02:before {
   content: "\eb5d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-01:before {
   content: "\eb5e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-05:before {
   content: "\eb5f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-04:before {
   content: "\eb60";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-03:before {
   content: "\eb61";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-02:before {
   content: "\eb62";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-01:before {
   content: "\eb63";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-horizontal-bar-chart-03:before {
   content: "\eb64";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-horizontal-bar-chart-02:before {
   content: "\eb65";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-horizontal-bar-chart-01:before {
   content: "\eb66";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chart-breakout-square:before {
   content: "\eb67";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chart-breakout-circle:before {
   content: "\eb68";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-line-chart:before {
   content: "\eb69";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-up:before {
   content: "\eb6a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-plus:before {
   content: "\eb6b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-minus:before {
   content: "\eb6c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-down:before {
   content: "\eb6d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-03:before {
   content: "\eb6e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-02:before {
   content: "\eb6f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-01:before {
   content: "\eb70";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-circle-03:before {
   content: "\eb71";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-circle-02:before {
   content: "\eb72";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-circle-01:before {
   content: "\eb73";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-12:before {
   content: "\eb74";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-11:before {
   content: "\eb75";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-10:before {
   content: "\eb76";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-09:before {
   content: "\eb77";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-08:before {
   content: "\eb78";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-07:before {
   content: "\eb79";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-06:before {
   content: "\eb7a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-05:before {
   content: "\eb7b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-04:before {
   content: "\eb7c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-03:before {
   content: "\eb7d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-02:before {
   content: "\eb7e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-01:before {
   content: "\eb7f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-up-02-outline:before {
   content: "\eb80";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-up-01-outline:before {
   content: "\eb81";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-down-02-outline:before {
   content: "\eb82";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trend-down-01-outline:before {
   content: "\eb83";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-presentation-chart-03-outline:before {
   content: "\eb84";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-presentation-chart-02-outline:before {
   content: "\eb85";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-presentation-chart-01-outline:before {
   content: "\eb86";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-04-outline:before {
   content: "\eb87";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-03-outline:before {
   content: "\eb88";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-02-outline:before {
   content: "\eb89";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pie-chart-01-outline:before {
   content: "\eb8a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-05-outline:before {
   content: "\eb8b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-04-outline:before {
   content: "\eb8c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-03-outline:before {
   content: "\eb8d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-02-outline:before {
   content: "\eb8e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-up-01-outline:before {
   content: "\eb8f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-05-outline:before {
   content: "\eb90";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-04-outline:before {
   content: "\eb91";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-03-outline:before {
   content: "\eb92";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-02-outline:before {
   content: "\eb93";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-line-chart-down-01-outline:before {
   content: "\eb94";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-horizontal-bar-chart-03-outline:before {
   content: "\eb95";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-horizontal-bar-chart-02-outline:before {
   content: "\eb96";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-horizontal-bar-chart-01-outline:before {
   content: "\eb97";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chart-breakout-square-outline:before {
   content: "\eb98";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chart-breakout-circle-outline:before {
   content: "\eb99";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-line-chart-outline:before {
   content: "\eb9a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-up-outline:before {
   content: "\eb9b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-plus-outline:before {
   content: "\eb9c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-minus-outline:before {
   content: "\eb9d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-down-outline:before {
   content: "\eb9e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-03-outline:before {
   content: "\eb9f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-02-outline:before {
   content: "\eba0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-square-01-outline:before {
   content: "\eba1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-circle-03-outline:before {
   content: "\eba2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-circle-02-outline:before {
   content: "\eba3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-circle-01-outline:before {
   content: "\eba4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-12-outline:before {
   content: "\eba5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-11-outline:before {
   content: "\eba6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-10-outline:before {
   content: "\eba7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-09-outline:before {
   content: "\eba8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-08-outline:before {
   content: "\eba9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-07-outline:before {
   content: "\ebaa";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-06-outline:before {
   content: "\ebab";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-05-outline:before {
   content: "\ebac";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-04-outline:before {
   content: "\ebad";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-03-outline:before {
   content: "\ebae";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-02-outline:before {
   content: "\ebaf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bar-chart-01-outline:before {
   content: "\ebb0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-circle-02-outline:before {
   content: "\eaf1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-circle-01-outline:before {
   content: "\eaf2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-circle-02-outline:before {
   content: "\eaf3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-circle-01-outline:before {
   content: "\eaf4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-circle-02:before {
   content: "\ea91";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-circle-01:before {
   content: "\ea92";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-circle-02:before {
   content: "\ea93";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-circle-01:before {
   content: "\ea94";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-02:before {
   content: "\ea95";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-01:before {
   content: "\ea96";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-02:before {
   content: "\ea97";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-01:before {
   content: "\ea98";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-reverse-right:before {
   content: "\ea99";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-reverse-left:before {
   content: "\ea9a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-05:before {
   content: "\ea9b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-04:before {
   content: "\ea9c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-03:before {
   content: "\ea9d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-02:before {
   content: "\ea9e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-01:before {
   content: "\ea9f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-05:before {
   content: "\eaa0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-04:before {
   content: "\eaa1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-03:before {
   content: "\eaa2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-02:before {
   content: "\eaa3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-01:before {
   content: "\eaa4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-infinity:before {
   content: "\eaa5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-flip-forward:before {
   content: "\eaa6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-flip-backward:before {
   content: "\eaa7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-06:before {
   content: "\eaa8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-05:before {
   content: "\eaa9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-04:before {
   content: "\eaaa";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-03:before {
   content: "\eaab";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-02:before {
   content: "\eaac";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-01:before {
   content: "\eaad";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-up-right:before {
   content: "\eaae";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-up-left:before {
   content: "\eaaf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-right-up:before {
   content: "\eab0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-right-down:before {
   content: "\eab1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-left-up:before {
   content: "\eab2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-left-down:before {
   content: "\eab3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-down-right:before {
   content: "\eab4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-down-left:before {
   content: "\eab5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-up-double:before {
   content: "\eab6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-up:before {
   content: "\eab7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-selector-vertical:before {
   content: "\eab8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-selector-horizontal:before {
   content: "\eab9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-right-double:before {
   content: "\eaba";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-right:before {
   content: "\eabb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-left-double:before {
   content: "\eabc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-left:before {
   content: "\eabd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-down-double:before {
   content: "\eabe";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-down:before {
   content: "\1f53d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-up:before {
   content: "\eac0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-triangle:before {
   content: "\eac1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-right:before {
   content: "\eac2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-left:before {
   content: "\eac3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-down:before {
   content: "\eac4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-up-right:before {
   content: "\eac5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-up-left:before {
   content: "\eac6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-up:before {
   content: "\1f53c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-up-right:before {
   content: "\eac8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-up-left:before {
   content: "\eac9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-up:before {
   content: "\eaca";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-right:before {
   content: "\eacb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-left:before {
   content: "\eacc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-down-right:before {
   content: "\eacd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-down-left:before {
   content: "\eace";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-down:before {
   content: "\eacf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-right:before {
   content: "\ead0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-up-right:before {
   content: "\ead1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-up-left:before {
   content: "\ead2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-up:before {
   content: "\ead3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-right:before {
   content: "\ead4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-left:before {
   content: "\ead5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-down-right:before {
   content: "\ead6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-down-left:before {
   content: "\ead7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-down:before {
   content: "\ead8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-left:before {
   content: "\ead9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-down-right:before {
   content: "\eada";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-down-left:before {
   content: "\eadb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-down:before {
   content: "\eadc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-up-right:before {
   content: "\eadd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-up-left:before {
   content: "\eade";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-up:before {
   content: "\eadf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-right:before {
   content: "\eae0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-left:before {
   content: "\eae1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-down-right:before {
   content: "\eae2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-down-left:before {
   content: "\eae3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-down:before {
   content: "\eae4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-up-right:before {
   content: "\eae5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-up-left:before {
   content: "\eae6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-up:before {
   content: "\eae7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-right:before {
   content: "\eae8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-left:before {
   content: "\eae9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-down-right:before {
   content: "\eaea";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-down-left:before {
   content: "\eaeb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-down:before {
   content: "\eaec";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-up:before {
   content: "\eaed";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-right:before {
   content: "\eaee";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-left:before {
   content: "\eaef";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-down:before {
   content: "\eaf0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-02-outline:before {
   content: "\eaf5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-vertical-01-outline:before {
   content: "\eaf6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-02-outline:before {
   content: "\eaf7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-switch-horizontal-01-outline:before {
   content: "\eaf8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-reverse-right-outline:before {
   content: "\eaf9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-reverse-left-outline:before {
   content: "\eafa";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-05-outline:before {
   content: "\eafb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-04-outline:before {
   content: "\eafc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-03-outline:before {
   content: "\eafd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-02-outline:before {
   content: "\eafe";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-cw-01-outline:before {
   content: "\eaff";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-05-outline:before {
   content: "\eb00";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-04-outline:before {
   content: "\eb01";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-03-outline:before {
   content: "\eb02";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-02-outline:before {
   content: "\eb03";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-refresh-ccw-01-outline:before {
   content: "\eb04";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-infinity-outline:before {
   content: "\eb05";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-flip-forward-outline:before {
   content: "\eb06";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-flip-backward-outline:before {
   content: "\eb07";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-06-outline:before {
   content: "\eb08";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-05-outline:before {
   content: "\eb09";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-04-outline:before {
   content: "\eb0a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-03-outline:before {
   content: "\eb0b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-02-outline:before {
   content: "\eb0c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-expand-01-outline:before {
   content: "\eb0d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-up-right-outline:before {
   content: "\eb0e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-up-left-outline:before {
   content: "\eb0f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-right-up-outline:before {
   content: "\eb10";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-right-down-outline:before {
   content: "\eb11";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-left-up-outline:before {
   content: "\eb12";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-left-down-outline:before {
   content: "\eb13";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-down-right-outline:before {
   content: "\eb14";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-corner-down-left-outline:before {
   content: "\eb15";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-up-double-outline:before {
   content: "\eb16";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-up-outline:before {
   content: "\eb17";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-selector-vertical-outline:before {
   content: "\eb18";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-selector-horizontal-outline:before {
   content: "\eb19";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-right-double-outline:before {
   content: "\eb1a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-right-outline:before {
   content: "\eb1b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-left-double-outline:before {
   content: "\eb1c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-left-outline:before {
   content: "\eb1d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-down-double-outline:before {
   content: "\eb1e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-chevron-down-outline:before {
   content: "\eb1f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-up-outline:before {
   content: "\eb20";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-triangle-outline:before {
   content: "\eb21";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-right-outline:before {
   content: "\eb22";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-left-outline:before {
   content: "\eb23";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrows-down-outline:before {
   content: "\eb24";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-up-right-outline:before {
   content: "\eb25";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-up-left-outline:before {
   content: "\eb26";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-up-outline:before {
   content: "\eb27";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-up-right-outline:before {
   content: "\eb28";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-up-left-outline:before {
   content: "\eb29";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-up-outline:before {
   content: "\eb2a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-right-outline:before {
   content: "\eb2b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-left-outline:before {
   content: "\eb2c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-down-right-outline:before {
   content: "\eb2d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-down-left-outline:before {
   content: "\eb2e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-square-down-outline:before {
   content: "\eb2f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-right-outline:before {
   content: "\eb30";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-up-right-outline:before {
   content: "\eb31";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-up-left-outline:before {
   content: "\eb32";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-up-outline:before {
   content: "\eb33";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-right-outline:before {
   content: "\eb34";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-left-outline:before {
   content: "\eb35";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-down-right-outline:before {
   content: "\eb36";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-down-left-outline:before {
   content: "\eb37";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-narrow-down-outline:before {
   content: "\eb38";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-left-outline:before {
   content: "\eb39";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-down-right-outline:before {
   content: "\eb3a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-down-left-outline:before {
   content: "\eb3b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-down-outline:before {
   content: "\eb3c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-up-right-outline:before {
   content: "\eb3d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-up-left-outline:before {
   content: "\eb3e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-up-outline:before {
   content: "\eb3f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-right-outline:before {
   content: "\eb40";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-left-outline:before {
   content: "\eb41";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-down-right-outline:before {
   content: "\eb42";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-down-left-outline:before {
   content: "\eb43";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-down-outline:before {
   content: "\eb44";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-up-right-outline:before {
   content: "\eb45";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-up-left-outline:before {
   content: "\eb46";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-up-outline:before {
   content: "\eb47";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-right-outline:before {
   content: "\eb48";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-left-outline:before {
   content: "\eb49";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-down-right-outline:before {
   content: "\eb4a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-down-left-outline:before {
   content: "\eb4b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-circle-broken-down-outline:before {
   content: "\eb4c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-up-outline:before {
   content: "\eb4d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-right-outline:before {
   content: "\eb4e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-left-outline:before {
   content: "\eb4f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-arrow-block-down-outline:before {
   content: "\eb50";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-05:before {
   content: "\e9c2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-04:before {
   content: "\e9c3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-03:before {
   content: "\e9c4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-02:before {
   content: "\e9c5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-01:before {
   content: "\e9c6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-life-buoy-02:before {
   content: "\e9c7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-life-buoy-01:before {
   content: "\e9c8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-square:before {
   content: "\e9c9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-octagon:before {
   content: "\e9ca";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-hexagon:before {
   content: "\e9cb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-circle:before {
   content: "\e9cc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-smile:before {
   content: "\e9cd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-line:before {
   content: "\e9ce";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-05:before {
   content: "\e9cf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-04:before {
   content: "\e9d0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-03:before {
   content: "\e9d1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-02:before {
   content: "\e9d2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-01:before {
   content: "\e9d3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-square:before {
   content: "\e9d4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-octagon:before {
   content: "\e9d5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-hexagon:before {
   content: "\e9d6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-circle:before {
   content: "\e9d7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-hearts:before {
   content: "\e9d8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-square:before {
   content: "\e9d9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-rounded:before {
   content: "\e9da";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-octagon:before {
   content: "\e9db";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-hexagon:before {
   content: "\e9dc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-hand:before {
   content: "\e9dd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-circle:before {
   content: "\e9de";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart:before {
   content: "\e9df";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-hash-02:before {
   content: "\e9e0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-hash-01:before {
   content: "\e9e1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-google-chrome:before {
   content: "\e9e2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-filter-lines:before {
   content: "\e9e3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-filter-funnel-02:before {
   content: "\e9e4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-filter-funnel-01:before {
   content: "\e9e5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-eye-off:before {
   content: "\e9e6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-eye:before {
   content: "\e9e7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-equal-not:before {
   content: "\e9e8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-equal:before {
   content: "\e9e9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-05:before {
   content: "\e9ea";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-04:before {
   content: "\e9eb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-03:before {
   content: "\e9ec";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-02:before {
   content: "\e9ed";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-01:before {
   content: "\e9ee";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-cloud-02:before {
   content: "\e9ef";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-cloud-01:before {
   content: "\e9f0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-04:before {
   content: "\e9f1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-03:before {
   content: "\e9f2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-02-alt:before {
   content: "\e9f3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-02:before {
   content: "\e9f4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-01-alt:before {
   content: "\e9f5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-01:before {
   content: "\e9f6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-04:before {
   content: "\e9f7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-03:before {
   content: "\e9f8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-02:before {
   content: "\e9f9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-01:before {
   content: "\e9fa";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-sm:before {
   content: "\e9fb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-refraction:before {
   content: "\e9fc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-md:before {
   content: "\e9fd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-lg:before {
   content: "\e9fe";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-save-03:before {
   content: "\e9ff";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-save-02:before {
   content: "\ea00";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-save-01:before {
   content: "\ea01";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-plus-square:before {
   content: "\ea02";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-plus-circle:before {
   content: "\ea03";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-plus:before {
   content: "\ea04";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-placeholder:before {
   content: "\ea05";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pin-02:before {
   content: "\ea06";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pin-01:before {
   content: "\ea07";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-percent-03:before {
   content: "\ea08";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-percent-02:before {
   content: "\ea09";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-percent-01:before {
   content: "\ea0a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-minus-square:before {
   content: "\ea0b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-minus-circle:before {
   content: "\ea0c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-minus:before {
   content: "\ea0d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-05:before {
   content: "\ea0e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-04:before {
   content: "\ea0f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-03:before {
   content: "\ea10";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-02:before {
   content: "\ea11";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-01:before {
   content: "\ea12";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-medical-square:before {
   content: "\ea13";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-medical-cross:before {
   content: "\ea14";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-medical-circle:before {
   content: "\ea15";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-04-alt:before {
   content: "\ea16";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-04:before {
   content: "\ea17";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-03-alt:before {
   content: "\ea18";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-03:before {
   content: "\ea19";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-02-alt:before {
   content: "\ea1a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-02:before {
   content: "\ea1b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-01-alt:before {
   content: "\ea1c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-01:before {
   content: "\ea1d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-04-alt:before {
   content: "\ea1e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-04:before {
   content: "\ea1f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-03-alt:before {
   content: "\ea20";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-03:before {
   content: "\ea21";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-02-alt:before {
   content: "\ea22";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-02:before {
   content: "\ea23";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-01-alt:before {
   content: "\ea24";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-01:before {
   content: "\ea25";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-loading-03:before {
   content: "\ea26";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-loading-02:before {
   content: "\ea27";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-loading-01:before {
   content: "\ea28";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-external-02:before {
   content: "\ea29";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-external-01-alt:before {
   content: "\ea2a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-external-01:before {
   content: "\ea2b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-broken-02:before {
   content: "\ea2c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-broken-01:before {
   content: "\ea2d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-square:before {
   content: "\ea2e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-off:before {
   content: "\ea2f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-fast:before {
   content: "\ea30";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-circle:before {
   content: "\ea31";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap:before {
   content: "\ea32";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-square:before {
   content: "\ea33";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x:before {
   content: "\ea34";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-close:before {
   content: "\ea35";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-circle:before {
   content: "\ea36";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-virus:before {
   content: "\ea37";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-cloud-02:before {
   content: "\ea38";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-cloud-01:before {
   content: "\ea39";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-04:before {
   content: "\ea3a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-03:before {
   content: "\ea3b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-02:before {
   content: "\ea3c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-01-alt:before {
   content: "\ea3d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-01:before {
   content: "\ea3e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-04:before {
   content: "\ea3f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-03:before {
   content: "\ea40";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-02:before {
   content: "\ea41";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-01:before {
   content: "\ea42";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-translate-02:before {
   content: "\ea43";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-translate-01:before {
   content: "\ea44";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-tool-02:before {
   content: "\ea45";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-tool-01:before {
   content: "\ea46";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-03-right:before {
   content: "\ea47";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-03-left:before {
   content: "\ea48";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-02-right:before {
   content: "\ea49";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-02-left:before {
   content: "\ea4a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-01-right:before {
   content: "\ea4b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-01-left:before {
   content: "\ea4c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-05:before {
   content: "\ea4d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-04:before {
   content: "\ea4e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-03:before {
   content: "\ea4f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-02:before {
   content: "\ea50";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-01:before {
   content: "\ea51";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-04:before {
   content: "\ea52";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-03:before {
   content: "\ea53";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-02:before {
   content: "\ea54";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-01:before {
   content: "\ea55";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-octagon:before {
   content: "\ea56";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-divider:before {
   content: "\ea57";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-circle-02:before {
   content: "\ea58";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-circle-01:before {
   content: "\ea59";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-07:before {
   content: "\ea5a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-06:before {
   content: "\ea5b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-05:before {
   content: "\ea5c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-04-alt:before {
   content: "\ea5d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-04:before {
   content: "\ea5e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-03:before {
   content: "\ea5f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-02:before {
   content: "\ea60";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-01-alt:before {
   content: "\ea61";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-01:before {
   content: "\ea62";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-dots-vertical:before {
   content: "\ea63";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-dots-horizontal:before {
   content: "\ea64";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-dots-grid:before {
   content: "\ea65";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-divide-03:before {
   content: "\ea66";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-divide-02:before {
   content: "\ea67";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-divide-01:before {
   content: "\ea68";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-07:before {
   content: "\ea69";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-06:before {
   content: "\ea6a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-05:before {
   content: "\ea6b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-04:before {
   content: "\ea6c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-03:before {
   content: "\ea6d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-02:before {
   content: "\ea6e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-01:before {
   content: "\ea6f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-cloud-blank-02:before {
   content: "\ea70";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-cloud-blank-01:before {
   content: "\ea71";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-verified-03:before {
   content: "\ea72";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-verified-02:before {
   content: "\ea73";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-verified-01:before {
   content: "\ea74";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-square-broken:before {
   content: "\ea75";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-square:before {
   content: "\ea76";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-heart:before {
   content: "\ea77";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-done-02:before {
   content: "\ea78";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-done-01:before {
   content: "\ea79";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-circle-broken:before {
   content: "\ea7a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-circle:before {
   content: "\ea7b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check:before {
   content: "\ea7c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-08:before {
   content: "\ea7d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-07:before {
   content: "\ea7e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-06:before {
   content: "\ea7f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-05:before {
   content: "\ea80";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-04:before {
   content: "\ea81";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-03:before {
   content: "\ea82";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-02:before {
   content: "\ea83";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-01:before {
   content: "\ea84";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-x:before {
   content: "\ea85";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-minus:before {
   content: "\ea86";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-check:before {
   content: "\ea87";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-add:before {
   content: "\ea88";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark:before {
   content: "\ea89";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-at-sign:before {
   content: "\ea8a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-asterisk-02:before {
   content: "\ea8b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-asterisk-01:before {
   content: "\ea8c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-archive:before {
   content: "\ea8d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-anchor:before {
   content: "\ea8e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-activity-heart:before {
   content: "\ea8f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-activity:before {
   content: "\ea90";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-placeholder-2-outline:before {
   content: "\e900";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-05-outline:before {
   content: "\e901";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-04-outline:before {
   content: "\e902";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-03-outline:before {
   content: "\e903";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-02-outline:before {
   content: "\e904";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-01-outline:before {
   content: "\e905";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-life-buoy-02-outline:before {
   content: "\e906";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-life-buoy-01-outline:before {
   content: "\e907";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-square-outline:before {
   content: "\e908";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-octagon-outline:before {
   content: "\e909";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-hexagon-outline:before {
   content: "\e90a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-info-circle-outline:before {
   content: "\e90b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-smile-outline:before {
   content: "\e90c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-line-outline:before {
   content: "\e90d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-05-outline:before {
   content: "\e90e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-04-outline:before {
   content: "\e90f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-03-outline:before {
   content: "\e910";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-02-outline:before {
   content: "\e911";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-home-01-outline:before {
   content: "\e912";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-square-outline:before {
   content: "\e913";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-octagon-outline:before {
   content: "\e914";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-hexagon-outline:before {
   content: "\e915";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-help-circle-outline:before {
   content: "\e916";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-hearts-outline:before {
   content: "\e917";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-square-outline:before {
   content: "\e918";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-rounded-outline:before {
   content: "\e919";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-octagon-outline:before {
   content: "\e91a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-hexagon-outline:before {
   content: "\e91b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-hand-outline:before {
   content: "\e91c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-circle-outline:before {
   content: "\e91d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-heart-outline:before {
   content: "\e91e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-hash-02-outline:before {
   content: "\e91f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-hash-01-outline:before {
   content: "\e920";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-google-chrome-outline:before {
   content: "\e921";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-filter-lines-outline:before {
   content: "\e922";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-filter-funnel-02-outline:before {
   content: "\e923";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-filter-funnel-01-outline:before {
   content: "\e924";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-eye-off-outline:before {
   content: "\e925";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-eye-outline:before {
   content: "\e926";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-equal-not-outline:before {
   content: "\e927";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-equal-outline:before {
   content: "\e928";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-05-outline:before {
   content: "\e929";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-04-outline:before {
   content: "\e92a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-03-outline:before {
   content: "\e92b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-02-outline:before {
   content: "\e92c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-edit-01-outline:before {
   content: "\e92d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-cloud-02-outline:before {
   content: "\e92e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-cloud-01-outline:before {
   content: "\e92f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-04-outline:before {
   content: "\e930";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-03-outline:before {
   content: "\e931";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-02-outline:before {
   content: "\e932";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-01-outline:before {
   content: "\e933";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-04-outline:before {
   content: "\e934";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-03-outline:before {
   content: "\e935";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-02-outline:before {
   content: "\e936";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-settings-01-outline:before {
   content: "\e937";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-sm-outline:before {
   content: "\e938";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-refraction-outline:before {
   content: "\e939";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-md-outline:before {
   content: "\e93a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-search-lg-outline:before {
   content: "\e93b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-save-03-outline:before {
   content: "\e93c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-save-02-outline:before {
   content: "\e93d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-save-01-outline:before {
   content: "\e93e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-plus-square-outline:before {
   content: "\e93f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-plus-circle-outline:before {
   content: "\e940";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-plus-outline:before {
   content: "\e941";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-placeholder-outline:before {
   content: "\e942";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pin-02-outline:before {
   content: "\e943";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-pin-01-outline:before {
   content: "\e944";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-percent-03-outline:before {
   content: "\e945";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-percent-02-outline:before {
   content: "\e946";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-percent-01-outline:before {
   content: "\e947";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-minus-square-outline:before {
   content: "\e948";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-minus-circle-outline:before {
   content: "\e949";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-minus-outline:before {
   content: "\e94a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-05-outline:before {
   content: "\e94b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-04-outline:before {
   content: "\e94c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-03-outline:before {
   content: "\e94d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-02-outline:before {
   content: "\e94e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-menu-01-outline:before {
   content: "\e94f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-medical-square-outline:before {
   content: "\e950";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-medical-cross-outline:before {
   content: "\e951";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-medical-circle-outline:before {
   content: "\e952";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-04-outline:before {
   content: "\e953";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-03-outline:before {
   content: "\e954";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-02-outline:before {
   content: "\e955";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-out-01-outline:before {
   content: "\e956";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-04-outline:before {
   content: "\e957";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-03-outline:before {
   content: "\e958";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-02-outline:before {
   content: "\e959";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-log-in-01-outline:before {
   content: "\e95a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-loading-03-outline:before {
   content: "\e95b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-loading-02-outline:before {
   content: "\e95c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-loading-01-outline:before {
   content: "\e95d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-external-02-outline:before {
   content: "\e95e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-external-01-outline:before {
   content: "\e95f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-broken-02-outline:before {
   content: "\e960";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-link-broken-01-outline:before {
   content: "\e961";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-square-outline:before {
   content: "\e962";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-off-outline:before {
   content: "\e963";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-fast-outline:before {
   content: "\e964";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-circle-outline:before {
   content: "\e965";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-zap-outline:before {
   content: "\e966";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-square-outline:before {
   content: "\e967";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-outline:before {
   content: "\e968";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-close-outline:before {
   content: "\e969";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-x-circle-outline:before {
   content: "\e96a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-virus-outline:before {
   content: "\e96b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-cloud-02-outline:before {
   content: "\e96c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-cloud-01-outline:before {
   content: "\e96d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-04-outline:before {
   content: "\e96e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-03-outline:before {
   content: "\e96f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-02-outline:before {
   content: "\e970";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-upload-01-outline:before {
   content: "\e971";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-04-outline:before {
   content: "\e972";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-03-outline:before {
   content: "\e973";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-02-outline:before {
   content: "\e974";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-trash-01-outline:before {
   content: "\e975";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-translate-02-outline:before {
   content: "\e976";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-translate-01-outline:before {
   content: "\e977";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-tool-02-outline:before {
   content: "\e978";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-tool-01-outline:before {
   content: "\e979";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-03-right-outline:before {
   content: "\e97a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-03-left-outline:before {
   content: "\e97b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-02-right-outline:before {
   content: "\e97c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-02-left-outline:before {
   content: "\e97d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-01-right-outline:before {
   content: "\e97e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-toggle-01-left-outline:before {
   content: "\e97f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-05-outline:before {
   content: "\e980";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-04-outline:before {
   content: "\e981";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-03-outline:before {
   content: "\e982";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-02-outline:before {
   content: "\e983";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-target-01-outline:before {
   content: "\e984";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-04-outline:before {
   content: "\e985";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-03-outline:before {
   content: "\e986";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-02-outline:before {
   content: "\e987";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-speedometer-01-outline:before {
   content: "\e988";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-octagon-outline:before {
   content: "\e989";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-divider-outline:before {
   content: "\e98a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-circle-02-outline:before {
   content: "\e98b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-slash-circle-01-outline:before {
   content: "\e98c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-07-outline:before {
   content: "\e98d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-06-outline:before {
   content: "\e98e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-05-outline:before {
   content: "\e98f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-share-04-outline:before {
   content: "\e990";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-03-outline:before {
   content: "\e991";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-02-outline:before {
   content: "\e992";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-download-01-outline:before {
   content: "\e993";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-dots-vertical-outline:before {
   content: "\e994";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-dots-horizontal-outline:before {
   content: "\e995";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-dots-grid-outline:before {
   content: "\e996";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-divide-03-outline:before {
   content: "\e997";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-divide-02-outline:before {
   content: "\e998";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-divide-01-outline:before {
   content: "\e999";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-07-outline:before {
   content: "\e99a";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-06-outline:before {
   content: "\e99b";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-05-outline:before {
   content: "\e99c";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-04-outline:before {
   content: "\e99d";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-03-outline:before {
   content: "\e99e";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-02-outline:before {
   content: "\e99f";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-copy-01-outline:before {
   content: "\e9a0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-cloud-blank-02-outline:before {
   content: "\e9a1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-cloud-blank-01-outline:before {
   content: "\e9a2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-verified-03-outline:before {
   content: "\e9a3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-verified-02-outline:before {
   content: "\e9a4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-verified-01-outline:before {
   content: "\e9a5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-square-broken-outline:before {
   content: "\e9a6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-square-outline:before {
   content: "\e9a7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-heart-outline:before {
   content: "\e9a8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-done-02-outline:before {
   content: "\e9a9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-done-01-outline:before {
   content: "\e9aa";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-circle-broken-outline:before {
   content: "\e9ab";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-circle-outline:before {
   content: "\e9ac";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-check-outline:before {
   content: "\e9ad";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-08-outline:before {
   content: "\e9ae";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-07-outline:before {
   content: "\e9af";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-06-outline:before {
   content: "\e9b0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-05-outline:before {
   content: "\e9b1";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-04-outline:before {
   content: "\e9b2";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-03-outline:before {
   content: "\e9b3";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-02-outline:before {
   content: "\e9b4";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-building-01-outline:before {
   content: "\e9b5";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-x-outline:before {
   content: "\e9b6";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-minus-outline:before {
   content: "\e9b7";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-check-outline:before {
   content: "\e9b8";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-add-outline:before {
   content: "\e9b9";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-bookmark-outline:before {
   content: "\e9ba";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-at-sign-outline:before {
   content: "\e9bb";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-asterisk-02-outline:before {
   content: "\e9bc";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-asterisk-01-outline:before {
   content: "\e9bd";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-archive-outline:before {
   content: "\e9be";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-anchor-outline:before {
   content: "\e9bf";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-activity-heart-outline:before {
   content: "\e9c0";
-  color: #fff;
+  color: #1b2631;
 }
 .monex-icon-activity-outline:before {
   content: "\e9c1";
-  color: #fff;
+  color: #1b2631;
 }
