@@ -25,6 +25,12 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'quick-link-icons-trending': '&#xf18a;',
+            'quick-link-icons-top-mover': '&#xf18b;',
+            'quick-link-icons-signal': '&#xf18c;',
+            'quick-link-icons-rewards': '&#xf18d;',
+            'quick-link-icons-news': '&#xf18e;',
+            'quick-link-icons-education': '&#xf18f;',
             'trophy-02': '&#xed13;',
             'telescope': '&#xed57;',
             'stand': '&#xed58;',

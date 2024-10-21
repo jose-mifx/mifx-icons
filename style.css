@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?8d4mz4');
-  src:  url('fonts/monex-icon.eot?8d4mz4#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?8d4mz4') format('truetype'),
-    url('fonts/monex-icon.woff?8d4mz4') format('woff'),
-    url('fonts/monex-icon.svg?8d4mz4#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?pdlx5');
+  src:  url('fonts/monex-icon.eot?pdlx5#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?pdlx5') format('truetype'),
+    url('fonts/monex-icon.woff?pdlx5') format('woff'),
+    url('fonts/monex-icon.svg?pdlx5#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-quick-link-icons-trending:before {
+  content: "\f18a";
+}
+.monex-icon-quick-link-icons-top-mover:before {
+  content: "\f18b";
+}
+.monex-icon-quick-link-icons-signal:before {
+  content: "\f18c";
+}
+.monex-icon-quick-link-icons-rewards:before {
+  content: "\f18d";
+}
+.monex-icon-quick-link-icons-news:before {
+  content: "\f18e";
+}
+.monex-icon-quick-link-icons-education:before {
+  content: "\f18f";
+}
 .monex-icon-trophy-02:before {
   content: "\ed13";
 }
