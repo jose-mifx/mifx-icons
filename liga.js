@@ -25,6 +25,15 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'nav-icons-more-active': '&#xf181;',
+            'nav-icons-market-inactive': '&#xf182;',
+            'nav-icons-order-active': '&#xf183;',
+            'nav-icons-trade': '&#xf184;',
+            'nav-icons-market-active': '&#xf185;',
+            'nav-icons-more-inactive': '&#xf186;',
+            'nav-icons-order-inactive': '&#xf187;',
+            'nav-icons-home-active': '&#xf188;',
+            'nav-icons-home-inactive': '&#xf189;',
             'quick-link-icons-trending': '&#xf18a;',
             'quick-link-icons-top-mover': '&#xf18b;',
             'quick-link-icons-signal': '&#xf18c;',

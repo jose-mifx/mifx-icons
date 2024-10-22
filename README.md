@@ -2,8 +2,15 @@
 
 ### Maintainer: Jose Devian (jose.devian@mifx.com)
 #### Co-maintainer: M. Aqil Wiputra (aqil@mifx.com)
+#### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v0.7 (Oct 22, 2024):
+- added Home's Bottom Navigation icons
+
+v0.6 (Oct 21, 2024):
+- added Home's Quick Links' icons
+
 v0.5 (May 3, 2024):
 - added Media & Devices, Development, Files, Security, Finance & eCommerce, Images, Editor, Time, Maps & Travel, Weather, Education (Aqil).
 

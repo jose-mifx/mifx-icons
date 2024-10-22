@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?pdlx5');
-  src:  url('fonts/monex-icon.eot?pdlx5#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?pdlx5') format('truetype'),
-    url('fonts/monex-icon.woff?pdlx5') format('woff'),
-    url('fonts/monex-icon.svg?pdlx5#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?gtg01e');
+  src:  url('fonts/monex-icon.eot?gtg01e#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?gtg01e') format('truetype'),
+    url('fonts/monex-icon.woff?gtg01e') format('woff'),
+    url('fonts/monex-icon.svg?gtg01e#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,33 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-nav-icons-more-active:before {
+  content: "\f181";
+}
+.monex-icon-nav-icons-market-inactive:before {
+  content: "\f182";
+}
+.monex-icon-nav-icons-order-active:before {
+  content: "\f183";
+}
+.monex-icon-nav-icons-trade:before {
+  content: "\f184";
+}
+.monex-icon-nav-icons-market-active:before {
+  content: "\f185";
+}
+.monex-icon-nav-icons-more-inactive:before {
+  content: "\f186";
+}
+.monex-icon-nav-icons-order-inactive:before {
+  content: "\f187";
+}
+.monex-icon-nav-icons-home-active:before {
+  content: "\f188";
+}
+.monex-icon-nav-icons-home-inactive:before {
+  content: "\f189";
+}
 .monex-icon-quick-link-icons-trending:before {
   content: "\f18a";
 }
