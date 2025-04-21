@@ -1,6 +1,6 @@
 # mifx-icon
 
-### Maintainer: Jose Devian (jose.devian@mifx.com)
+### Maintainer: Jose Devian H. (jose.devian@mifx.com)
 #### Co-maintainer: M. Aqil Wiputra (aqil@mifx.com)
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
