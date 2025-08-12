@@ -5,6 +5,9 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v1.4 (Aug 12, 2025):
+- added File Question icons
+
 v0.7 (Oct 22, 2024):
 - added Home's Bottom Navigation icons
 
