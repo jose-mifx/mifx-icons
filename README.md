@@ -5,6 +5,9 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v1.5 (Aug 12, 2025):
+- added Drawing Chart icons
+
 v1.4 (Aug 12, 2025):
 - added File Question icons
 

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?fif75q');
-  src:  url('fonts/monex-icon.eot?fif75q#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?fif75q') format('truetype'),
-    url('fonts/monex-icon.woff?fif75q') format('woff'),
-    url('fonts/monex-icon.svg?fif75q#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?q92dub');
+  src:  url('fonts/monex-icon.eot?q92dub#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?q92dub') format('truetype'),
+    url('fonts/monex-icon.woff?q92dub') format('woff'),
+    url('fonts/monex-icon.svg?q92dub#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,291 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-anchored-note:before {
+  content: "\f1f7";
+}
+.monex-icon-fib-time-zone:before {
+  content: "\f1f6";
+}
+.monex-icon-note:before {
+  content: "\f1bc";
+}
+.monex-icon-area-chart:before {
+  content: "\f1ed";
+}
+.monex-icon-heiken-ashi-chart:before {
+  content: "\f1ee";
+}
+.monex-icon-line-chart:before {
+  content: "\f1ef";
+}
+.monex-icon-bars-chart:before {
+  content: "\f1f0";
+}
+.monex-icon-candle-stick-chart:before {
+  content: "\f1f1";
+}
+.monex-icon-chart-indicator:before {
+  content: "\f1f2";
+}
+.monex-icon-circle1:before {
+  content: "\f1f3";
+}
+.monex-icon-anchored-volume-profile:before {
+  content: "\f1f4";
+}
+.monex-icon-gann-square-fixed:before {
+  content: "\f1f5";
+}
+.monex-icon-abcd-pattern:before {
+  content: "\f199";
+}
+.monex-icon-anchored-text:before {
+  content: "\f19a";
+}
+.monex-icon-anchored-vwap:before {
+  content: "\f19b";
+}
+.monex-icon-arc:before {
+  content: "\f19c";
+}
+.monex-icon-arrow-mark-down:before {
+  content: "\f19d";
+}
+.monex-icon-arrow-mark-left:before {
+  content: "\f19e";
+}
+.monex-icon-arrow-mark-right:before {
+  content: "\f19f";
+}
+.monex-icon-arrow-mark-up:before {
+  content: "\f1a0";
+}
+.monex-icon-arrow-marker:before {
+  content: "\f1a1";
+}
+.monex-icon-arrow:before {
+  content: "\f1a2";
+}
+.monex-icon-bars-pattern:before {
+  content: "\f1a3";
+}
+.monex-icon-brush:before {
+  content: "\f1a4";
+}
+.monex-icon-callout:before {
+  content: "\f1a5";
+}
+.monex-icon-comment:before {
+  content: "\f1a6";
+}
+.monex-icon-cross-line:before {
+  content: "\f1a7";
+}
+.monex-icon-curve:before {
+  content: "\f1a8";
+}
+.monex-icon-cyclic-lines:before {
+  content: "\f1a9";
+}
+.monex-icon-cypher-pattern:before {
+  content: "\f1aa";
+}
+.monex-icon-date-and-price-range:before {
+  content: "\f1ab";
+}
+.monex-icon-date-range:before {
+  content: "\f1ac";
+}
+.monex-icon-disjoint-channel:before {
+  content: "\f1ad";
+}
+.monex-icon-double-curve:before {
+  content: "\f1ae";
+}
+.monex-icon-elliott-correction-wave-abc:before {
+  content: "\f1af";
+}
+.monex-icon-elliott-double-combo-wave-wxy:before {
+  content: "\f1b0";
+}
+.monex-icon-elliott-impulse-wave-12345:before {
+  content: "\f1b1";
+}
+.monex-icon-elliott-triangle-wave-abcde:before {
+  content: "\f1b2";
+}
+.monex-icon-elliott-triple-combo-wave-wxyxz:before {
+  content: "\f1b3";
+}
+.monex-icon-ellipse:before {
+  content: "\f1b4";
+}
+.monex-icon-extended-line:before {
+  content: "\f1b5";
+}
+.monex-icon-fib-channel:before {
+  content: "\f1b6";
+}
+.monex-icon-fib-circles:before {
+  content: "\f1b7";
+}
+.monex-icon-fib-retracement:before {
+  content: "\f1b8";
+}
+.monex-icon-fib-speed-resistance-arcs:before {
+  content: "\f1b9";
+}
+.monex-icon-fib-speed-resistance-fan:before {
+  content: "\f1ba";
+}
+.monex-icon-fib-spiral:before {
+  content: "\f1bb";
+}
+.monex-icon-fib-wedge:before {
+  content: "\f1bd";
+}
+.monex-icon-fixed-range-volume-profile:before {
+  content: "\f1be";
+}
+.monex-icon-flag-mark:before {
+  content: "\f1bf";
+}
+.monex-icon-flat-top-bottom:before {
+  content: "\f1c0";
+}
+.monex-icon-forecast:before {
+  content: "\f1c1";
+}
+.monex-icon-gann-box:before {
+  content: "\f1c2";
+}
+.monex-icon-gann-fan:before {
+  content: "\f1c3";
+}
+.monex-icon-gann-square:before {
+  content: "\f1c4";
+}
+.monex-icon-ghost-feed:before {
+  content: "\f1c5";
+}
+.monex-icon-head-and-shoulders:before {
+  content: "\f1c6";
+}
+.monex-icon-highlighter:before {
+  content: "\f1c7";
+}
+.monex-icon-horizontal-line:before {
+  content: "\f1c8";
+}
+.monex-icon-horizontal-ray:before {
+  content: "\f1c9";
+}
+.monex-icon-info-line:before {
+  content: "\f1ca";
+}
+.monex-icon-inside-pitchfork:before {
+  content: "\f1cb";
+}
+.monex-icon-long-position:before {
+  content: "\f1cc";
+}
+.monex-icon-modified-schiff-pitchfork:before {
+  content: "\f1cd";
+}
+.monex-icon-parallel-channel:before {
+  content: "\f1ce";
+}
+.monex-icon-path:before {
+  content: "\f1cf";
+}
+.monex-icon-pitchfan:before {
+  content: "\f1d0";
+}
+.monex-icon-pitchfork:before {
+  content: "\f1d1";
+}
+.monex-icon-polyline:before {
+  content: "\f1d2";
+}
+.monex-icon-price-label:before {
+  content: "\f1d3";
+}
+.monex-icon-price-note:before {
+  content: "\f1d4";
+}
+.monex-icon-price-range:before {
+  content: "\f1d5";
+}
+.monex-icon-projection:before {
+  content: "\f1d6";
+}
+.monex-icon-ray:before {
+  content: "\f1d7";
+}
+.monex-icon-rectangle:before {
+  content: "\f1d8";
+}
+.monex-icon-regression-trend:before {
+  content: "\f1d9";
+}
+.monex-icon-rotated-rectangle:before {
+  content: "\f1da";
+}
+.monex-icon-schiff-pitchfork:before {
+  content: "\f1db";
+}
+.monex-icon-short-position:before {
+  content: "\f1dc";
+}
+.monex-icon-signpost:before {
+  content: "\f1dd";
+}
+.monex-icon-sine-line:before {
+  content: "\f1de";
+}
+.monex-icon-text:before {
+  content: "\f1df";
+}
+.monex-icon-three-drives-pattern:before {
+  content: "\f1e0";
+}
+.monex-icon-time-cycles:before {
+  content: "\f1e1";
+}
+.monex-icon-trend-angle:before {
+  content: "\f1e2";
+}
+.monex-icon-trend-based-fib-extension:before {
+  content: "\f1e3";
+}
+.monex-icon-trend-based-fib-time:before {
+  content: "\f1e4";
+}
+.monex-icon-trend-line:before {
+  content: "\f1e5";
+}
+.monex-icon-triangle-pattern:before {
+  content: "\f1e6";
+}
+.monex-icon-triangle1:before {
+  content: "\f1e7";
+}
+.monex-icon-vertical-line:before {
+  content: "\f1e8";
+}
+.monex-icon-xabcd-pattern:before {
+  content: "\f1e9";
+}
+.monex-icon-briefcase-01-outline:before {
+  content: "\f1ea";
+}
+.monex-icon-file-05-outline:before {
+  content: "\f1eb";
+}
+.monex-icon-id-card-outline:before {
+  content: "\f1ec";
+}
 .monex-icon-file-question-01-outline:before {
   content: "\f0bc";
 }
