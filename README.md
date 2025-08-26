@@ -5,6 +5,10 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+
+v1.6 (Aug 26, 2025):
+- Fixing Drawing Chart icons
+
 v1.5 (Aug 12, 2025):
 - added Drawing Chart icons
 
