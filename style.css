@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?27iiye');
-  src:  url('fonts/monex-icon.eot?27iiye#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?27iiye') format('truetype'),
-    url('fonts/monex-icon.woff?27iiye') format('woff'),
-    url('fonts/monex-icon.svg?27iiye#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?9pbbd6');
+  src:  url('fonts/monex-icon.eot?9pbbd6#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?9pbbd6') format('truetype'),
+    url('fonts/monex-icon.woff?9pbbd6') format('woff'),
+    url('fonts/monex-icon.svg?9pbbd6#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,48 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-deposit-va:before {
+  content: "\f1f8";
+}
+.monex-icon-empty-state:before {
+  content: "\f1f9";
+}
+.monex-icon-mira-icon:before {
+  content: "\f1fa";
+}
+.monex-icon-profile-kontak-darurat:before {
+  content: "\f1fb";
+}
+.monex-icon-setting-layar-awal:before {
+  content: "\f1fc";
+}
+.monex-icon-tinjau-ulang-dokumen-pendukung:before {
+  content: "\f1fd";
+}
+.monex-icon-tinjau-ulang-foto-tin:before {
+  content: "\f1fe";
+}
+.monex-icon-tinjau-ulang-ktp-wali:before {
+  content: "\f1ff";
+}
+.monex-icon-tinjau-ulang-ktp:before {
+  content: "\f200";
+}
+.monex-icon-tinjau-ulang-npwp-kk:before {
+  content: "\f201";
+}
+.monex-icon-tinjau-ulang-paspor-wali:before {
+  content: "\f202";
+}
+.monex-icon-tinjau-ulang-paspor:before {
+  content: "\f203";
+}
+.monex-icon-tinjau-ulang-selfie-ktp:before {
+  content: "\f204";
+}
+.monex-icon-tinjau-ulang-selfie-passpor:before {
+  content: "\f205";
+}
 .monex-icon-anchored-note:before {
   content: "\f1f7";
 }
