@@ -6,8 +6,14 @@
 
 ## Changelogs:
 
+v1.7 (Oct 14, 2025):
+- added illustration icon 'Upload document'
+- added 'Deposit-VA'
+- added 'kontak-darurat'
+- added 'layar-awal'
+  
 v1.6 (Aug 26, 2025):
-- Fixing Drawing Chart icons
+- fixing Drawing Chart icons
 
 v1.5 (Aug 12, 2025):
 - added Drawing Chart icons
