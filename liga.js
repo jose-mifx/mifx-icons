@@ -25,6 +25,20 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'deposit-va': '&#xf1f8;',
+            'empty-state': '&#xf1f9;',
+            'mira-icon': '&#xf1fa;',
+            'profile-kontak-darurat': '&#xf1fb;',
+            'setting-layar-awal': '&#xf1fc;',
+            'tinjau-ulang-dokumen-pendukung': '&#xf1fd;',
+            'tinjau-ulang-foto-tin': '&#xf1fe;',
+            'tinjau-ulang-ktp-wali': '&#xf1ff;',
+            'tinjau-ulang-ktp': '&#xf200;',
+            'tinjau-ulang-npwp-kk': '&#xf201;',
+            'tinjau-ulang-paspor-wali': '&#xf202;',
+            'tinjau-ulang-paspor': '&#xf203;',
+            'tinjau-ulang-selfie-ktp': '&#xf204;',
+            'tinjau-ulang-selfie-passpor': '&#xf205;',
             'anchored-note': '&#xf1f7;',
             'fib-time-zone': '&#xf1f6;',
             'note': '&#xf1bc;',
