@@ -38,7 +38,7 @@
             'tinjau-ulang-paspor-wali': '&#xf202;',
             'tinjau-ulang-paspor': '&#xf203;',
             'tinjau-ulang-selfie-ktp': '&#xf204;',
-            'tinjau-ulang-selfie-passpor': '&#xf205;',
+            'tinjau-ulang-selfie-paspor': '&#xf205;',
             'anchored-note': '&#xf1f7;',
             'fib-time-zone': '&#xf1f6;',
             'note': '&#xf1bc;',
