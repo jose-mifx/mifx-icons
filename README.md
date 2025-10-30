@@ -5,6 +5,9 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v1.8 (Oct 30, 2025):
+- added 'biometric-face-id'
+- added 'biometric-fingerprint'
 
 v1.7 (Oct 14, 2025):
 - added illustration icon 'Upload document'
