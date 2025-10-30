@@ -25,6 +25,8 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'biometrik-face-id': '&#xf206;',
+            'biometrik-fingerprint': '&#xf207;',
             'deposit-va': '&#xf1f8;',
             'empty-state': '&#xf1f9;',
             'mira-icon': '&#xf1fa;',
