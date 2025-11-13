@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'globe-02-outline': '&#xf208;',
             'biometrik-face-id': '&#xf206;',
             'biometrik-fingerprint': '&#xf207;',
             'deposit-va': '&#xf1f8;',
