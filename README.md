@@ -5,6 +5,9 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v1.9 (Nov 13, 2025):
+- added 'globe-02-outline'
+
 v1.8 (Oct 30, 2025):
 - added 'biometric-face-id'
 - added 'biometric-fingerprint'

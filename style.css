@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?607vqw');
-  src:  url('fonts/monex-icon.eot?607vqw#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?607vqw') format('truetype'),
-    url('fonts/monex-icon.woff?607vqw') format('woff'),
-    url('fonts/monex-icon.svg?607vqw#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?f0u7z9');
+  src:  url('fonts/monex-icon.eot?f0u7z9#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?f0u7z9') format('truetype'),
+    url('fonts/monex-icon.woff?f0u7z9') format('woff'),
+    url('fonts/monex-icon.svg?f0u7z9#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-globe-02-outline:before {
+  content: "\f208";
+}
 .monex-icon-biometrik-face-id:before {
   content: "\f206";
 }
