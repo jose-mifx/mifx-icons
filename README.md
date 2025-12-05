@@ -5,6 +5,10 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v2.0. (Nov 13, 2025):
+- added 'wallet-02-outline'
+
+
 v1.9 (Nov 13, 2025):
 - added 'globe-02-outline'
 
