@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'wallet-02-outline': '&#xf209;',
             'globe-02-outline': '&#xf208;',
             'biometrik-face-id': '&#xf206;',
             'biometrik-fingerprint': '&#xf207;',
