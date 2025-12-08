@@ -5,6 +5,13 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v2.1. (Dec 8, 2025):
+- added 'chevron-grabber-up'
+- added 'chevron-grabber-down'
+
+v2.0. (Dec 6, 2025):
+- added 'wallet-02-outline'
+  
 v1.9 (Nov 13, 2025):
 - added 'globe-02-outline'
 
