@@ -25,6 +25,9 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'chevron-grabber-down': '&#xf20a;',
+            'chevron-grabber-up': '&#xf20b;',
+            'wallet-02-outline': '&#xf209;',
             'globe-02-outline': '&#xf208;',
             'biometrik-face-id': '&#xf206;',
             'biometrik-fingerprint': '&#xf207;',
