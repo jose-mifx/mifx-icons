@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'reward-poin': '&#xf20c;',
             'chevron-grabber-down': '&#xf20a;',
             'chevron-grabber-up': '&#xf20b;',
             'wallet-02-outline': '&#xf209;',

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'monex-icon';
-  src:  url('fonts/monex-icon.eot?5xegsr');
-  src:  url('fonts/monex-icon.eot?5xegsr#iefix') format('embedded-opentype'),
-    url('fonts/monex-icon.ttf?5xegsr') format('truetype'),
-    url('fonts/monex-icon.woff?5xegsr') format('woff'),
-    url('fonts/monex-icon.svg?5xegsr#monex-icon') format('svg');
+  src:  url('fonts/monex-icon.eot?385s4p');
+  src:  url('fonts/monex-icon.eot?385s4p#iefix') format('embedded-opentype'),
+    url('fonts/monex-icon.ttf?385s4p') format('truetype'),
+    url('fonts/monex-icon.woff?385s4p') format('woff'),
+    url('fonts/monex-icon.svg?385s4p#monex-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -35,6 +35,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.monex-icon-reward-poin:before {
+  content: "\f20c";
+}
 .monex-icon-chevron-grabber-down:before {
   content: "\f20a";
 }
