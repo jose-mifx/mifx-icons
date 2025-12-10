@@ -5,6 +5,9 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v2.2. (Dec 10, 2025):
+- added 'reward-poin'
+
 v2.1. (Dec 8, 2025):
 - added 'chevron-grabber-up'
 - added 'chevron-grabber-down'
