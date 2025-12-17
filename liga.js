@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'phone-down': '&#xf20d;',
             'reward-poin': '&#xf20c;',
             'chevron-grabber-down': '&#xf20a;',
             'chevron-grabber-up': '&#xf20b;',
