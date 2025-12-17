@@ -5,6 +5,9 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v2.3. (Dec 17, 2025):
+- added 'phone-down'
+
 v2.2. (Dec 10, 2025):
 - added 'reward-poin'
 
