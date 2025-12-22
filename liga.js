@@ -25,6 +25,8 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'autochartist': '&#xf20e;',
+            'trading-central': '&#xf20f;',
             'phone-down': '&#xf20d;',
             'reward-poin': '&#xf20c;',
             'chevron-grabber-down': '&#xf20a;',
