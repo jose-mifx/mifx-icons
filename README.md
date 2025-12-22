@@ -5,6 +5,10 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
+v2.4. (Dec 22, 2025):
+- added 'autochartist'
+- added 'trading-central'
+  
 v2.3. (Dec 17, 2025):
 - added 'phone-down'
 
