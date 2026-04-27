@@ -5,7 +5,7 @@
 #### Co-maintainer: Vedrix Zan Ritara (vedrix.ritara@mifx.com)
 
 ## Changelogs:
-v2.4. (Apr 27, 2026):
+v2.5. (Apr 27, 2026):
 - added 'lock-01'
 
 v2.4. (Dec 22, 2025):
