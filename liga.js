@@ -25,6 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
+            'lock-01': '&#xf210;',
             'autochartist': '&#xf20e;',
             'trading-central': '&#xf20f;',
             'phone-down': '&#xf20d;',
